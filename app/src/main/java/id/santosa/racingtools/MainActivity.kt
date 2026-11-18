@@ -112,7 +112,7 @@ private fun Eyebrow(text: String) {
 
 @Composable
 private fun SectionTitle(text: String) {
-    Text(text, color = TextMain, fontSize = 25.sp, fontWeight = FontWeight.Bold)
+    Text(text, color = TextMain, fontSize = 22.sp, fontWeight = FontWeight.Bold)
 }
 
 @Composable
@@ -127,26 +127,31 @@ private fun Panel(content: @Composable ColumnScope.() -> Unit) {
 @Composable
 private fun HomeScreen(onCalculators: () -> Unit) {
     ScreenColumn {
-        Image(
-            painter = painterResource(R.drawable.logo),
-            contentDescription = "Santosa Racing Tools",
-            modifier = Modifier.fillMaxWidth().height(180.dp)
-        )
-        Eyebrow("Workshop engineering suite")
-        SectionTitle("Santosa Racing Tools")
-        Text("Engine calculations. Technical references. Build planning.", color = TextMuted)
-        Spacer(Modifier.height(4.dp))
+        Row(
+            verticalAlignment = Alignment.CenterVertically,
+            horizontalArrangement = Arrangement.spacedBy(14.dp)
+        ) {
+            Image(
+                painter = painterResource(R.drawable.logo),
+                contentDescription = "Santosa Racing Tools",
+                modifier = Modifier.size(76.dp)
+            )
+            Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                SectionTitle("Santosa Racing Tools")
+                Text("Workshop engineering suite", color = TextMuted, fontSize = 14.sp)
+            }
+        }
         Panel {
             Eyebrow("START HERE")
             Text("Engine displacement", fontSize = 20.sp, fontWeight = FontWeight.SemiBold)
             Text("Calculate bore, stroke and cylinder capacity with transparent inputs and formulas.", color = TextMuted)
-            Button(onClick = onCalculators, colors = ButtonDefaults.buttonColors(containerColor = Accent)) {
+            Button(onClick = onCalculators, colors = ButtonDefaults.buttonColors(containerColor = Accent, contentColor = Color.White)) {
                 Text("Open calculators")
             }
         }
         Panel {
             Text("Project status", fontWeight = FontWeight.SemiBold)
-            Text("Foundation build · v0.1.0", color = TextMuted)
+            Text("Version 0.1.0", color = TextMuted)
             Text("Motorcycle specifications and workshop articles will be added in verified database releases.", color = TextMuted)
         }
         Panel {
