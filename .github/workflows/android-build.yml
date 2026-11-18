@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: read
+  actions: write
 
 jobs:
   build:
@@ -60,6 +61,15 @@ jobs:
           echo "$SIGNING_KEY_BASE64" | base64 --decode > "$RUNNER_TEMP/release-keystore.jks"
           gradle --no-daemon :app:assembleRelease             -Pandroid.injected.signing.store.file="$RUNNER_TEMP/release-keystore.jks"             -Pandroid.injected.signing.store.password="$SIGNING_STORE_PASSWORD"             -Pandroid.injected.signing.key.alias="$SIGNING_KEY_ALIAS"             -Pandroid.injected.signing.key.password="$SIGNING_KEY_PASSWORD"
 
+      - name: Delete old debug artifacts
+        if: ${{ inputs.build_type == 'debug' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api --paginate "repos/${{ github.repository }}/actions/artifacts?name=santosa-racing-tools-debug&per_page=100" --jq '.artifacts[].id' | while read -r id; do
+            gh api -X DELETE "repos/${{ github.repository }}/actions/artifacts/$id" || true
+          done
+
       - name: Upload debug APK
         if: ${{ inputs.build_type == 'debug' }}
         uses: actions/upload-artifact@v4
@@ -67,7 +77,7 @@ jobs:
           name: santosa-racing-tools-debug
           path: app/build/outputs/apk/debug/*.apk
           if-no-files-found: error
-          retention-days: 14
+          retention-days: 3
 
       - name: Upload release APK
         if: ${{ inputs.build_type == 'release' }}
