@@ -1,59 +1,64 @@
 # Santosa Racing Tools
 
-Native Android application foundation for motorcycle engine calculations, technical references and modification project planning.
+Android app for motorcycle engine calculations, technical references and build planning.
 
-## Current foundation
+## Calculators
 
-- Kotlin + Jetpack Compose
-- Dark workshop-oriented UI
-- Manual GitHub Actions APK build
-- Initial displacement calculator
-- Static compression ratio calculator
-- Basic tooth-count ratio calculator
-- Motorcycle database and workshop module placeholders
+- Displacement, bore-up and stroke-up
+- Static compression ratio
+- Clearance volume from burette readings, gasket, deck and piston crown
+- Squish clearance
+- Mean piston speed
+- Gear ratio and road speed from RPM
+
+The motorcycle database, workshop articles and saved builds are planned and not in the app yet.
+
+## Project layout
+
+- `app/src/main/java/id/santosa/racingtools/calc/` - calculation code, no UI
+- `app/src/main/java/id/santosa/racingtools/MainActivity.kt` - screens
+- `app/src/test/` - unit tests for the calculation code
+- `docs/` - formulas, database plan, development notes
 
 ## Build locally
 
 Requirements: JDK 17, Android SDK Platform 35, Gradle 8.9.
 
 ```bash
+gradle test
 gradle :app:assembleDebug
 ```
 
-APK output:
+The debug APK is written to `app/build/outputs/apk/debug/app-debug.apk`.
 
-`app/build/outputs/apk/debug/app-debug.apk`
+## GitHub Actions
 
-## Build using GitHub Actions
+Both workflows are in `.github/workflows/`.
 
-1. Push this repository to GitHub.
-2. Open **Actions**.
-3. Select **Android Build**.
-4. Select **Run workflow**.
-5. Choose `debug` for a development APK.
-6. Download the artifact after the workflow succeeds.
+- **Android Unit Tests** runs the unit tests. It starts on a push that changes `app/**`, the Gradle files or `gradle.properties`, and it can be started by hand.
+- **Android Build** builds an APK and is started by hand. Choose `debug` or `release`.
+
+A debug build deletes the older debug artifacts before it uploads the new one, so only the latest debug APK is kept.
 
 ## Release signing
 
-For a signed release, configure these repository secrets:
+A signed release needs these repository secrets:
 
 - `ANDROID_SIGNING_KEY_BASE64`: base64-encoded JKS keystore
 - `ANDROID_SIGNING_STORE_PASSWORD`
 - `ANDROID_SIGNING_KEY_ALIAS`
 - `ANDROID_SIGNING_KEY_PASSWORD`
 
-Then run Android Build with `release`.
+Then run Android Build with `release`. Keep the keystore and passwords private. If the keystore is lost, updates to an app signed with it are no longer possible.
 
-Keep the keystore and passwords private. Losing the keystore can prevent updates to an app distributed under the same signing identity.
+## Notes on the results
 
-## Important engineering notes
+All results are theoretical. Check dimensions, clearances and limits by measuring the parts before machining or assembly.
 
-The initial calculators are foundation implementations, not a complete engine engineering suite. The compression calculator expects total clearance volume as an input. The gear ratio screen is a basic tooth-count ratio tool, not a validated motorcycle gearbox database or road-speed model.
+The compression calculators work per cylinder. The road speed calculator does not cover CVT drives. No motorcycle data is included until it can be added with a source and a verification status.
 
-No motorcycle specification catalogue is represented as complete or verified in this initial scaffold. Model data must be added with source and verification status.
-
-## Package identity
+## Package
 
 `id.santosa.racingtools`
 
-Changing the application ID after publishing may affect app update continuity.
+Changing the application ID after publishing breaks updates for existing installs.

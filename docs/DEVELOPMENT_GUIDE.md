@@ -1,9 +1,12 @@
 # Development Guide
 
-- Keep calculation logic independent from Compose UI.
-- Add unit tests for every formula and boundary condition.
-- Use SI units internally.
-- Keep unknown technical specifications null rather than inventing values.
-- Localize all UI strings through Android resources.
-- Keep user projects local and preserve them during database updates.
-- Treat recommendations as rules-based outputs with explicit evidence and uncertainty.
+- Calculation code lives in `app/src/main/java/id/santosa/racingtools/calc/`. It must not depend on Android or Compose.
+- Every calculation function returns `null` for invalid input. The screens show a message instead of a number.
+- Every formula has unit tests in `app/src/test/`, including invalid and boundary values.
+- Run the tests with `gradle test`.
+- Public functions take the units shown on screen (mm, cc, rpm). Conversions happen inside the function.
+- Keep unknown technical specifications null instead of guessing values.
+- Keep full precision internally and round only when showing a value.
+- Put UI strings in Android resources once the localization work starts.
+- Keep user projects local and keep them when the database is updated.
+- Show recommendations as rule-based output with the evidence and the uncertainty.

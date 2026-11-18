@@ -26,6 +26,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import id.santosa.racingtools.calc.ClearanceMath
 import id.santosa.racingtools.calc.EngineMath
 import id.santosa.racingtools.calc.GearMath
 
@@ -171,7 +172,10 @@ private fun CalculatorsScreen() {
         SectionTitle("Calculators")
         Text("Select a calculation. Inputs use millimetres unless stated otherwise.", color = TextMuted)
         Row(Modifier.horizontalScroll(rememberScrollState()), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            listOf("Displacement", "Compression", "Gear ratio", "Piston speed").forEach { item ->
+            listOf(
+                "Displacement", "Bore / stroke", "Compression", "Clearance",
+                "Squish", "Piston speed", "Gear ratio", "Road speed"
+            ).forEach { item ->
                 FilterChip(
                     selected = selected == item,
                     onClick = { selected = item },
@@ -181,8 +185,12 @@ private fun CalculatorsScreen() {
         }
         when (selected) {
             "Displacement" -> DisplacementCalculator()
+            "Bore / stroke" -> BoreStrokeCalculator()
             "Compression" -> CompressionCalculator()
+            "Clearance" -> ClearanceCalculator()
+            "Squish" -> SquishCalculator()
             "Piston speed" -> PistonSpeedCalculator()
+            "Road speed" -> RoadSpeedCalculator()
             else -> GearRatioCalculator()
         }
     }
@@ -207,6 +215,12 @@ private fun NumberField(label: String, value: String, onValue: (String) -> Unit,
 }
 
 private fun parse(value: String): Double? = value.replace(',', '.').toDoubleOrNull()?.takeIf { it > 0.0 }
+
+private fun parseNonNegative(value: String): Double? =
+    value.replace(',', '.').toDoubleOrNull()?.takeIf { it.isFinite() && it >= 0.0 }
+
+private fun parseSigned(value: String): Double? =
+    value.replace(',', '.').toDoubleOrNull()?.takeIf { it.isFinite() }
 
 @Composable
 private fun ResultPanel(title: String, result: String, note: String = "") {
@@ -302,12 +316,155 @@ private fun PistonSpeedCalculator() {
 }
 
 @Composable
+private fun BoreStrokeCalculator() {
+    var boreText by remember { mutableStateOf("52.4") }
+    var strokeText by remember { mutableStateOf("57.9") }
+    var newBoreText by remember { mutableStateOf("54.0") }
+    var newStrokeText by remember { mutableStateOf("57.9") }
+    var cylinderText by remember { mutableStateOf("1") }
+    val bore = parse(boreText)
+    val stroke = parse(strokeText)
+    val newBore = parse(newBoreText)
+    val newStroke = parse(newStrokeText)
+    val cylinders = cylinderText.toIntOrNull()?.takeIf { it in 1..EngineMath.MAX_CYLINDERS }
+    val before = if (bore != null && stroke != null && cylinders != null) EngineMath.displacementCc(bore, stroke, cylinders) else null
+    val after = if (newBore != null && newStroke != null && cylinders != null) EngineMath.displacementCc(newBore, newStroke, cylinders) else null
+    val change = if (before != null && after != null) EngineMath.percentChange(before, after) else null
+
+    Panel {
+        Text("Bore-up / stroke-up", fontWeight = FontWeight.SemiBold)
+        NumberField("Current bore", boreText, { boreText = it }, "mm")
+        NumberField("Current stroke", strokeText, { strokeText = it }, "mm")
+        NumberField("New bore", newBoreText, { newBoreText = it }, "mm")
+        NumberField("New stroke", newStrokeText, { newStrokeText = it }, "mm")
+        NumberField("Cylinders", cylinderText, { cylinderText = it }, "unit")
+        Text("Keep a new value equal to the current one to change only the bore or only the stroke.", color = TextMuted, fontSize = 12.sp)
+    }
+    if (before != null && after != null && change != null) {
+        ResultPanel(
+            "New displacement",
+            "%.2f cc".format(after),
+            "Current %.2f cc · change %+.2f cc (%+.1f%%)".format(before, after - before, change)
+        )
+    } else {
+        Text("Enter valid positive dimensions and 1–12 cylinders.", color = Color(0xFFFFB36B))
+    }
+}
+
+@Composable
+private fun ClearanceCalculator() {
+    var boreText by remember { mutableStateOf("52.4") }
+    var strokeText by remember { mutableStateOf("57.9") }
+    var startText by remember { mutableStateOf("0.0") }
+    var endText by remember { mutableStateOf("12.0") }
+    var gasketText by remember { mutableStateOf("0.5") }
+    var deckText by remember { mutableStateOf("0.0") }
+    var crownText by remember { mutableStateOf("0.0") }
+    val bore = parse(boreText)
+    val stroke = parse(strokeText)
+    val start = parseNonNegative(startText)
+    val end = parse(endText)
+    val gasketThickness = parseNonNegative(gasketText)
+    val deckHeight = parseNonNegative(deckText)
+    val crown = parseSigned(crownText)
+    val chamber = if (start != null && end != null) ClearanceMath.buretteVolumeCc(start, end) else null
+    val gasket = if (bore != null && gasketThickness != null) ClearanceMath.discVolumeCc(bore, gasketThickness) else null
+    val deck = if (bore != null && deckHeight != null) ClearanceMath.discVolumeCc(bore, deckHeight) else null
+    val total = if (chamber != null && gasket != null && deck != null && crown != null) ClearanceMath.totalCc(chamber, gasket, deck, crown) else null
+    val swept = if (bore != null && stroke != null) EngineMath.displacementCc(bore, stroke, 1) else null
+    val ratio = if (swept != null && total != null) EngineMath.staticCompressionRatio(swept, total) else null
+
+    Panel {
+        Text("Clearance volume", fontWeight = FontWeight.SemiBold)
+        NumberField("Bore", boreText, { boreText = it }, "mm")
+        NumberField("Stroke", strokeText, { strokeText = it }, "mm")
+        NumberField("Burette start reading", startText, { startText = it }, "cc")
+        NumberField("Burette end reading", endText, { endText = it }, "cc")
+        NumberField("Compressed gasket thickness", gasketText, { gasketText = it }, "mm")
+        NumberField("Piston below deck at TDC", deckText, { deckText = it }, "mm")
+        NumberField("Piston crown volume", crownText, { crownText = it }, "cc")
+        Text("Chamber = end reading − start reading. Crown volume is positive for a dish and negative for a dome. Values are for one cylinder.", color = TextMuted, fontSize = 12.sp)
+    }
+    if (total != null) {
+        val note = if (ratio != null) "Static compression ratio: %.2f : 1 (per cylinder)".format(ratio) else ""
+        ResultPanel("Total clearance volume", "%.2f cc".format(total), note)
+    } else {
+        Text("Enter valid values. The end reading must be above the start reading.", color = Color(0xFFFFB36B))
+    }
+}
+
+@Composable
+private fun SquishCalculator() {
+    var deckText by remember { mutableStateOf("0.30") }
+    var gasketText by remember { mutableStateOf("0.50") }
+    val deck = parseSigned(deckText)
+    val gasket = parseNonNegative(gasketText)
+    val squish = if (deck != null && gasket != null) EngineMath.squishClearanceMm(deck, gasket) else null
+
+    Panel {
+        Text("Squish clearance", fontWeight = FontWeight.SemiBold)
+        NumberField("Piston below deck at TDC", deckText, { deckText = it }, "mm")
+        NumberField("Compressed gasket thickness", gasketText, { gasketText = it }, "mm")
+        Text("Formula: piston below deck + compressed gasket thickness. Use a negative value if the piston stands above the deck.", color = TextMuted, fontSize = 12.sp)
+    }
+    if (squish != null) {
+        ResultPanel("Squish clearance", "%.2f mm".format(squish), "Measure the gasket as installed. Check the allowed clearance with the engine builder or the manufacturer data.")
+    } else {
+        Text("Enter valid values. The clearance must be above zero.", color = Color(0xFFFFB36B))
+    }
+}
+
+@Composable
+private fun RoadSpeedCalculator() {
+    var rpmText by remember { mutableStateOf("8000") }
+    var primaryText by remember { mutableStateOf("3.0") }
+    var gearText by remember { mutableStateOf("1.0") }
+    var frontText by remember { mutableStateOf("14") }
+    var rearText by remember { mutableStateOf("42") }
+    var widthText by remember { mutableStateOf("80") }
+    var aspectText by remember { mutableStateOf("90") }
+    var rimText by remember { mutableStateOf("17") }
+    val rpm = parse(rpmText)
+    val primary = parse(primaryText)
+    val gear = parse(gearText)
+    val front = parse(frontText)
+    val rear = parse(rearText)
+    val width = parse(widthText)
+    val aspect = parse(aspectText)
+    val rim = parse(rimText)
+    val circumference = if (width != null && aspect != null && rim != null) GearMath.tyreCircumferenceMm(width, aspect, rim) else null
+    val speed = if (rpm != null && primary != null && gear != null && front != null && rear != null && circumference != null) {
+        GearMath.roadSpeedKmh(rpm, primary, gear, front, rear, circumference)
+    } else {
+        null
+    }
+
+    Panel {
+        Text("RPM to road speed", fontWeight = FontWeight.SemiBold)
+        NumberField("Engine speed", rpmText, { rpmText = it }, "rpm")
+        NumberField("Primary ratio", primaryText, { primaryText = it }, ": 1")
+        NumberField("Gear ratio", gearText, { gearText = it }, ": 1")
+        NumberField("Front sprocket", frontText, { frontText = it }, "teeth")
+        NumberField("Rear sprocket", rearText, { rearText = it }, "teeth")
+        NumberField("Tyre width", widthText, { widthText = it }, "mm")
+        NumberField("Tyre aspect ratio", aspectText, { aspectText = it }, "%")
+        NumberField("Rim diameter", rimText, { rimText = it }, "inch")
+        Text("Tyre size as printed on the sidewall, for example 80/90-17. Get the primary and gear ratios from the Gear ratio calculator.", color = TextMuted, fontSize = 12.sp)
+    }
+    if (speed != null && circumference != null) {
+        ResultPanel("Road speed", "%.1f km/h".format(speed), "Wheel circumference %.0f mm. Theoretical value: no slip and no tyre growth. Not valid for CVT drives.".format(circumference))
+    } else {
+        Text("Enter valid positive values.", color = Color(0xFFFFB36B))
+    }
+}
+
+@Composable
 private fun MotorcyclesScreen() {
     ScreenColumn {
         Eyebrow("Specification library")
         SectionTitle("Motorcycles")
         Panel {
-            Text("Database foundation", fontWeight = FontWeight.SemiBold)
+            Text("Database", fontWeight = FontWeight.SemiBold)
             Text("The full Indonesian-market catalogue is not bundled yet. Models will only be published with generation-specific specifications and source/verification status.", color = TextMuted)
         }
         Panel {
@@ -345,7 +502,7 @@ private fun SettingsScreen() {
         SectionTitle("Settings")
         Panel {
             Text("Santosa Racing Tools", fontWeight = FontWeight.SemiBold)
-            Text("Version 0.1.0 · Development foundation", color = TextMuted)
+            Text("Version 0.1.0", color = TextMuted)
             Text("Language selection and persistent preferences will be implemented with the localization and settings module.", color = TextMuted)
         }
         Panel {

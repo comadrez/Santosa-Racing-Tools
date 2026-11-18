@@ -3,6 +3,7 @@ package id.santosa.racingtools.calc
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull
 import org.junit.Assert.assertNull
+import org.junit.Assert.assertTrue
 import org.junit.Test
 import kotlin.math.PI
 
@@ -106,5 +107,48 @@ class EngineMathTest {
         assertNull(EngineMath.meanPistonSpeedMs(55.0, -8000.0))
         assertNull(EngineMath.meanPistonSpeedMs(Double.NaN, 8000.0))
         assertNull(EngineMath.meanPistonSpeedMs(55.0, Double.POSITIVE_INFINITY))
+    }
+
+    @Test
+    fun percentChangeUpAndDown() {
+        assertEquals(10.0, EngineMath.percentChange(100.0, 110.0)!!, delta)
+        assertEquals(-10.0, EngineMath.percentChange(100.0, 90.0)!!, delta)
+        assertEquals(0.0, EngineMath.percentChange(100.0, 100.0)!!, delta)
+    }
+
+    @Test
+    fun percentChangeRejectsInvalidInput() {
+        assertNull(EngineMath.percentChange(0.0, 100.0))
+        assertNull(EngineMath.percentChange(100.0, 0.0))
+        assertNull(EngineMath.percentChange(-100.0, 100.0))
+        assertNull(EngineMath.percentChange(Double.NaN, 100.0))
+    }
+
+    @Test
+    fun boreUpRaisesDisplacement() {
+        val before = EngineMath.displacementCc(52.4, 57.9, 1)!!
+        val after = EngineMath.displacementCc(54.0, 57.9, 1)!!
+        assertEquals(132.60379847463693, after, delta)
+        assertTrue(after > before)
+    }
+
+    @Test
+    fun squishClearanceAddsDeckAndGasket() {
+        assertEquals(0.8, EngineMath.squishClearanceMm(0.3, 0.5)!!, delta)
+        assertEquals(0.5, EngineMath.squishClearanceMm(0.0, 0.5)!!, delta)
+    }
+
+    @Test
+    fun squishClearanceAllowsPistonAboveDeck() {
+        assertEquals(0.8, EngineMath.squishClearanceMm(-0.2, 1.0)!!, delta)
+    }
+
+    @Test
+    fun squishClearanceRejectsContactAndBadInput() {
+        assertNull(EngineMath.squishClearanceMm(-1.0, 0.5))
+        assertNull(EngineMath.squishClearanceMm(0.0, 0.0))
+        assertNull(EngineMath.squishClearanceMm(0.3, -0.1))
+        assertNull(EngineMath.squishClearanceMm(Double.NaN, 0.5))
+        assertNull(EngineMath.squishClearanceMm(0.3, Double.POSITIVE_INFINITY))
     }
 }

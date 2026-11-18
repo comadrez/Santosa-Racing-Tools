@@ -1,6 +1,19 @@
-# Santosa Racing Tools — Project Blueprint
+# Santosa Racing Tools - Project Blueprint
 
-See the project specification supplied with this repository. The initial implementation prioritizes a buildable Android foundation and transparent starter calculators.
+## Status
+
+Done:
+
+- Engine calculators: displacement, bore-up and stroke-up, compression ratio, clearance volume, squish, piston speed
+- Gear ratio and road speed
+- Unit tests for the calculation code
+
+Not started:
+
+- Motorcycle database
+- Workshop articles
+- Saved builds and comparison
+- Language selection
 
 ## Planned modules
 

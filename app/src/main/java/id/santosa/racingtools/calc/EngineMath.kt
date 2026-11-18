@@ -11,6 +11,11 @@ object EngineMath {
         return PI / 4.0 * boreMm * boreMm * strokeMm * cylinders / 1000.0
     }
 
+    fun percentChange(from: Double, to: Double): Double? {
+        if (!from.isPositiveFinite() || !to.isPositiveFinite()) return null
+        return (to - from) / from * 100.0
+    }
+
     fun staticCompressionRatio(sweptCc: Double, clearanceCc: Double): Double? {
         if (!sweptCc.isPositiveFinite() || !clearanceCc.isPositiveFinite()) return null
         return (sweptCc + clearanceCc) / clearanceCc
@@ -20,5 +25,11 @@ object EngineMath {
         if (!strokeMm.isPositiveFinite() || !rpm.isPositiveFinite()) return null
         val strokeM = strokeMm / 1000.0
         return 2.0 * strokeM * rpm / 60.0
+    }
+
+    fun squishClearanceMm(pistonBelowDeckMm: Double, compressedGasketMm: Double): Double? {
+        if (!pistonBelowDeckMm.isFinite() || !compressedGasketMm.isNonNegativeFinite()) return null
+        val clearance = pistonBelowDeckMm + compressedGasketMm
+        return if (clearance > 0.0) clearance else null
     }
 }
