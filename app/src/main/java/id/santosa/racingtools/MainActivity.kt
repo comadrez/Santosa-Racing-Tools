@@ -5,6 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
+import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
@@ -25,7 +26,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import kotlin.math.PI
+import id.santosa.racingtools.calc.EngineMath
+import id.santosa.racingtools.calc.GearMath
 
 private val Bg = Color(0xFF101214)
 private val SurfaceDark = Color(0xFF1B2024)
@@ -168,8 +170,8 @@ private fun CalculatorsScreen() {
         Eyebrow("Calculation bench")
         SectionTitle("Calculators")
         Text("Select a calculation. Inputs use millimetres unless stated otherwise.", color = TextMuted)
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            listOf("Displacement", "Compression", "Gear ratio").forEach { item ->
+        Row(Modifier.horizontalScroll(rememberScrollState()), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            listOf("Displacement", "Compression", "Gear ratio", "Piston speed").forEach { item ->
                 FilterChip(
                     selected = selected == item,
                     onClick = { selected = item },
@@ -180,6 +182,7 @@ private fun CalculatorsScreen() {
         when (selected) {
             "Displacement" -> DisplacementCalculator()
             "Compression" -> CompressionCalculator()
+            "Piston speed" -> PistonSpeedCalculator()
             else -> GearRatioCalculator()
         }
     }
@@ -223,7 +226,7 @@ private fun DisplacementCalculator() {
     val b = parse(bore)
     val s = parse(stroke)
     val n = cylinders.toIntOrNull()?.takeIf { it in 1..12 }
-    val cc = if (b != null && s != null && n != null) PI / 4.0 * b * b * s * n / 1000.0 else null
+    val cc = if (b != null && s != null && n != null) EngineMath.displacementCc(b, s, n) else null
 
     Panel {
         Text("Displacement", fontWeight = FontWeight.SemiBold)
@@ -242,7 +245,7 @@ private fun CompressionCalculator() {
     var clearance by remember { mutableStateOf("12.0") }
     val vs = parse(swept)
     val vc = parse(clearance)
-    val ratio = if (vs != null && vc != null) (vs + vc) / vc else null
+    val ratio = if (vs != null && vc != null) EngineMath.staticCompressionRatio(vs, vc) else null
     Panel {
         Text("Static compression ratio", fontWeight = FontWeight.SemiBold)
         NumberField("Swept volume", swept, { swept = it }, "cc")
@@ -264,8 +267,8 @@ private fun GearRatioCalculator() {
     val b = parse(driven)
     val f = parse(front)
     val r = parse(rear)
-    val primary = if (a != null && b != null) b / a else null
-    val final = if (f != null && r != null) r / f else null
+    val primary = if (a != null && b != null) GearMath.ratio(a, b) else null
+    val final = if (f != null && r != null) GearMath.ratio(f, r) else null
     Panel {
         Text("Reduction ratios", fontWeight = FontWeight.SemiBold)
         NumberField("Driving teeth", driving, { driving = it }, "teeth")
@@ -279,6 +282,23 @@ private fun GearRatioCalculator() {
     } else {
         Text("Enter valid positive tooth counts.", color = Color(0xFFFFB36B))
     }
+}
+
+@Composable
+private fun PistonSpeedCalculator() {
+    var stroke by remember { mutableStateOf("57.9") }
+    var rpm by remember { mutableStateOf("8000") }
+    val st = parse(stroke)
+    val rv = parse(rpm)
+    val speed = if (st != null && rv != null) EngineMath.meanPistonSpeedMs(st, rv) else null
+    Panel {
+        Text("Mean piston speed", fontWeight = FontWeight.SemiBold)
+        NumberField("Stroke", stroke, { stroke = it }, "mm")
+        NumberField("Engine speed", rpm, { rpm = it }, "rpm")
+        Text("Formula: 2 × stroke × rpm ÷ 60, with stroke in metres", color = TextMuted, fontSize = 12.sp)
+    }
+    if (speed != null) ResultPanel("Mean piston speed", "%.2f m/s".format(speed), "Average over one revolution.")
+    else Text("Enter valid positive values.", color = Color(0xFFFFB36B))
 }
 
 @Composable
