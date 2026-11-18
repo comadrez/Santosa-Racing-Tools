@@ -3,6 +3,7 @@ package id.santosa.racingtools
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
@@ -19,6 +20,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
@@ -125,6 +127,11 @@ private fun Panel(content: @Composable ColumnScope.() -> Unit) {
 @Composable
 private fun HomeScreen(onCalculators: () -> Unit) {
     ScreenColumn {
+        Image(
+            painter = painterResource(R.drawable.logo),
+            contentDescription = "Santosa Racing Tools",
+            modifier = Modifier.fillMaxWidth().height(180.dp)
+        )
         Eyebrow("Workshop engineering suite")
         SectionTitle("Santosa Racing Tools")
         Text("Engine calculations. Technical references. Build planning.", color = TextMuted)
