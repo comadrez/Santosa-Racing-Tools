@@ -1,0 +1,850 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "autofun-aerox-155",
+      "title": "Kulik Spesifikasi Yamaha Aerox 155, Matic Favorit Anak Muda",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/kulik-spesifikasi-yamaha-aerox-155-matic-favorit-anak-muda-82873",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-aerox-alpha",
+      "title": "Cek Spesifikasi Lengkap dan Ubahan Yamaha Aerox Alpha",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/cek-spesifikasi-lengkap-dan-ubahan-yamaha-aerox-alpha-83416",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-lexi-engine",
+      "title": "Mesin Yamaha Lexi LX 155 2024 lebih Gres, Aerox dan NMax kudu Sungkem!",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/mesin-yamaha-lexi-lx-155-2024-lebih-gres-aerox-dan-nmax-kudu-sungkem-76951",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-lexi-2024",
+      "title": "Yamaha Lexi LX 155 2024 Dibekali Mesin Baru, Akselerasi Makin Jengat",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/yamaha-lexi-lx-155-2024-dibekali-mesin-baru-akselerasi-makin-jengat-77144",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-lexi-faq",
+      "title": "Ragam Pertanyaan Pada Yamaha Lexi LX 155, Bener Gak Sih?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/ragam-pertanyaan-terkait-yamaha-lexi-lx-155-yang-mau-beli-harus-tahu-82885",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "oto-lexi-vs-nmax",
+      "title": "Yamaha Lexi LX 155 vs Yamaha Nmax",
+      "publisher": "Oto.com",
+      "url": "https://www.oto.com/bandingkan-motor/yamaha-lexi-lx-155-and-yamaha-nmax",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-nmax-2021",
+      "title": "Telisik Bedanya Mesin Yamaha NMax 155 2021 dengan Model Lama",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/telisik-bedanya-mesin-yamaha-nmax-155-2021-dengan-model-lama-banyak-yang-belum-tahu-loh-30105",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-nmax-2021-dims",
+      "title": "Ini Sebab Yamaha Nmax 155 2021 Lebih Mudah Dikendarai Dibandingkan Model Lamanya",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/ini-sebab-yamaha-nmax-155-2021-lebih-mudah-dikendarai-dibandingkan-model-lamanya-29988",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-nmax-2025",
+      "title": "Telisik Spesifikasi Yamaha NMax 2025, Tampang Predator Mesin Lebih Gacor",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/telisik-spesifikasi-yamaha-nmax-2025-tampang-predator-mesin-lebih-gacor-80173",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-nmax-neo",
+      "title": "Masih 155 Cc, Ini Beda Mesin Yamaha NMax Neo dan Nmax Gen 2",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/masih-155-cc-ini-beda-mesin-yamaha-nmax-neo-dan-nmax-gen-2-81160",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "zigwheels-nmax-turbo",
+      "title": "Ada Embel-embel \"Turbo\", Seberapa Signifikan Peningkatan Performa Yamaha Nmax?",
+      "publisher": "Zigwheels",
+      "url": "https://www.zigwheels.co.id/motovaganza/ada-embel-embel-turbo-seberapa-signifikan-peningkatan-performa-yamaha-nmax/",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-fazzio-2022",
+      "title": "Begini Impresi Awal Mesin Blue Core Hybrid Yamaha Fazzio 2022",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/begini-impresi-awal-mesin-blue-core-hybrid-yamaha-fazzio-2022-40635",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-grand-filano-2024",
+      "title": "Kiprah Yamaha Grand Filano di Indonesia, Sempat Dijual Terbatas",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/kiprah-yamaha-grand-filano-di-indonesia-sempat-dijual-terbatas-78748",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-grand-filano-2023",
+      "title": "Kepo Sama Yamaha Grand Filano Hybrid-Connected 2023? Cek Detailnya",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/kepo-sama-yamaha-grand-filano-hybridconnected-2023-cek-detailnya-61278",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-grand-filano-engine",
+      "title": "Menggodanya Warna Baru Yamaha Fazzio dan Grand Filano 2024",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/menggodanya-warna-baru-yamaha-fazzio-dan-grand-filano-2024-78649",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-gear125",
+      "title": "Detail Mesin Yamaha Gear 125, Matic Kecil yang Kuat Nanjak",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/detail-mesin-yamaha-gear-125-matic-kecil-yang-kuat-nanjak-75985",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-freego",
+      "title": "Diam-diam Yamaha FreeGo Sudah Hybrid, Tembus Rp 58 Jutaan",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/diam-diam-yamaha-freego-sudah-hybrid-tembus-rp-58-jutaan-467298",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-gear-ultima",
+      "title": "Berbasis Fazzio, Mesin Yamaha Gear Ultima Banyak yang Baru!",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/yamaha-gear-ultima-pakai-basis-fazzio-apa-yang-berubah-464023",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "analisadaily-gear-ultima",
+      "title": "Masyarakat Labura Sambut Meriah Gebyar Yamaha dan Bakti Sosial",
+      "publisher": "Analisa",
+      "url": "https://analisadaily.com/berita/baca/2026/08/27/1076990/masyarakat-labura-sambut-meriah-gebyar-yamaha-dan-bakti-sosial/",
+      "published": "2026-08",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    }
+  ],
+  "engines": [
+    {
+      "id": "yamaha-aerox-155",
+      "name": "155 cc SOHC 4-valve VVA single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "autofun-aerox-alpha"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "autofun-aerox-alpha"
+      },
+      "boreMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "autofun-aerox-155"
+      },
+      "strokeMm": {
+        "v": 58.7,
+        "s": "secondary",
+        "src": "autofun-aerox-155"
+      },
+      "displacementCc": {
+        "v": 155.0,
+        "s": "secondary",
+        "src": "autofun-aerox-155"
+      },
+      "compressionRatio": {
+        "v": 11.6,
+        "s": "secondary",
+        "src": "autofun-aerox-155"
+      },
+      "powerPs": {
+        "v": 15.3,
+        "s": "secondary",
+        "src": "autofun-lexi-engine"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-lexi-engine"
+      },
+      "torqueNm": {
+        "v": 13.9,
+        "s": "secondary",
+        "src": "autofun-lexi-engine"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-lexi-engine"
+      }
+    },
+    {
+      "id": "yamaha-nmax-155-2021",
+      "name": "155.09 cc SOHC 4-valve VVA single (NMAX 2021)",
+      "boreMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "autofun-nmax-2021"
+      },
+      "strokeMm": {
+        "v": 58.7,
+        "s": "secondary",
+        "src": "autofun-nmax-2021"
+      },
+      "displacementCc": {
+        "v": 155.09,
+        "s": "secondary",
+        "src": "autofun-nmax-2025"
+      },
+      "compressionRatio": {
+        "v": 11.6,
+        "s": "secondary",
+        "src": "autofun-nmax-2021"
+      },
+      "powerPs": {
+        "v": 15.3,
+        "s": "secondary",
+        "src": "autofun-nmax-2021"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-nmax-2021"
+      },
+      "torqueNm": {
+        "v": 13.9,
+        "s": "secondary",
+        "src": "autofun-nmax-2021"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-nmax-2021"
+      }
+    },
+    {
+      "id": "yamaha-nmax-155-neo",
+      "name": "155.09 cc SOHC 4-valve VVA single (NMAX Neo)",
+      "boreMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "autofun-nmax-neo"
+      },
+      "strokeMm": {
+        "v": 58.7,
+        "s": "secondary",
+        "src": "autofun-nmax-neo"
+      },
+      "displacementCc": {
+        "v": 155.09,
+        "s": "secondary",
+        "src": "autofun-nmax-neo"
+      },
+      "compressionRatio": {
+        "v": 11.6,
+        "s": "secondary",
+        "src": "autofun-nmax-neo"
+      },
+      "powerPs": {
+        "v": 15.3,
+        "s": "secondary",
+        "src": "autofun-nmax-neo"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-nmax-neo"
+      },
+      "torqueNm": {
+        "v": 14.2,
+        "s": "secondary",
+        "src": "autofun-nmax-neo"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-nmax-neo"
+      }
+    },
+    {
+      "id": "yamaha-lexi-lx-155",
+      "name": "155.09 cc SOHC 4-valve VVA single (Lexi LX 155)",
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "oto-lexi-vs-nmax"
+      },
+      "boreMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      },
+      "strokeMm": {
+        "v": 58.7,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      },
+      "displacementCc": {
+        "v": 155.09,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      },
+      "compressionRatio": {
+        "v": 11.6,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      },
+      "powerPs": {
+        "v": 15.3,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      },
+      "torqueNm": {
+        "v": 14.2,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      }
+    },
+    {
+      "id": "yamaha-fazzio-125",
+      "name": "124.8 cc SOHC 2-valve Blue Core Hybrid single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "displacementCc": {
+        "v": 124.8,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "compressionRatio": {
+        "v": 11.0,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "powerPs": {
+        "v": 8.4,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "powerRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "torqueNm": {
+        "v": 10.6,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "torqueRpm": {
+        "v": 4500,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      }
+    },
+    {
+      "id": "yamaha-grand-filano-125",
+      "name": "124.86 cc SOHC 2-valve Blue Core Hybrid single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "displacementCc": {
+        "v": 124.86,
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "compressionRatio": {
+        "v": 11.0,
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "powerPs": {
+        "v": 8.29,
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "powerRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "torqueNm": {
+        "v": 10.4,
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      },
+      "torqueRpm": {
+        "v": 5000,
+        "s": "secondary",
+        "src": "autofun-grand-filano-engine"
+      }
+    },
+    {
+      "id": "yamaha-grand-filano-2015",
+      "name": "125 cc SOHC 2-valve single, air-cooled (2015)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "displacementCc": {
+        "v": 125.0,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "compressionRatio": {
+        "v": 11.0,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "powerPs": {
+        "v": 8.2,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "powerRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "torqueNm": {
+        "v": 9.7,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "torqueRpm": {
+        "v": 5000,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      }
+    },
+    {
+      "id": "yamaha-125-blue-core",
+      "name": "125 cc SOHC 2-valve Blue Core single, air-cooled (Gear 125, FreeGo)",
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "autofun-gear125"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "autofun-gear125"
+      },
+      "displacementCc": {
+        "v": 125.0,
+        "s": "secondary",
+        "src": "autofun-gear125"
+      },
+      "compressionRatio": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "autofun-gear125"
+      },
+      "powerPs": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "autofun-gear125"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-gear125"
+      },
+      "torqueNm": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "autofun-gear125"
+      },
+      "torqueRpm": {
+        "v": 5500,
+        "s": "secondary",
+        "src": "autofun-gear125"
+      }
+    },
+    {
+      "id": "yamaha-gear-ultima-125",
+      "name": "125 cc Blue Core Hybrid single, air-cooled (Gear Ultima)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "analisadaily-gear-ultima"
+      },
+      "compressionRatio": {
+        "v": 11.0,
+        "s": "secondary",
+        "src": "autofun-gear-ultima"
+      },
+      "powerRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "analisadaily-gear-ultima"
+      },
+      "torqueNm": {
+        "v": 10.6,
+        "s": "secondary",
+        "src": "analisadaily-gear-ultima"
+      },
+      "torqueRpm": {
+        "v": 4500,
+        "s": "secondary",
+        "src": "analisadaily-gear-ultima"
+      }
+    }
+  ],
+  "transmissions": [
+    {
+      "id": "yamaha-nmax-cvt",
+      "kind": {
+        "v": "Automatic CVT",
+        "s": "secondary",
+        "src": "autofun-nmax-2021-dims"
+      }
+    },
+    {
+      "id": "yamaha-lexi-lx-155-cvt",
+      "kind": {
+        "v": "Automatic CVT",
+        "s": "secondary",
+        "src": "autofun-lexi-faq"
+      }
+    },
+    {
+      "id": "yamaha-fazzio-cvt",
+      "kind": {
+        "v": "Automatic",
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      }
+    },
+    {
+      "id": "yamaha-gear125-cvt",
+      "kind": {
+        "v": "Automatic CVT",
+        "s": "secondary",
+        "src": "autofun-gear125"
+      }
+    }
+  ],
+  "generations": [
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-aerox-155",
+      "family": "Aerox",
+      "label": "Aerox 155 VVA",
+      "inProduction": true,
+      "engineId": "yamaha-aerox-155",
+      "wheelbaseMm": {
+        "v": 1350,
+        "s": "secondary",
+        "src": "autofun-aerox-155"
+      },
+      "kerbWeightKg": {
+        "v": 122,
+        "s": "secondary",
+        "src": "autofun-aerox-155"
+      },
+      "seatHeightMm": {
+        "v": 790,
+        "s": "secondary",
+        "src": "autofun-aerox-155"
+      },
+      "notes": "Kerb weight is for the standard type. The Connected and ABS type is 125 kg. Cooling and fuel system are from the Aerox Alpha article. Start year, tyres and transmission are not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-nmax-155-2021",
+      "family": "NMAX",
+      "label": "NMAX 155 (2021)",
+      "yearFrom": {
+        "v": 2021,
+        "s": "secondary",
+        "src": "autofun-nmax-2021"
+      },
+      "inProduction": false,
+      "engineId": "yamaha-nmax-155-2021",
+      "transmissionId": "yamaha-nmax-cvt",
+      "wheelbaseMm": {
+        "v": 1340,
+        "s": "secondary",
+        "src": "autofun-nmax-2021-dims"
+      },
+      "kerbWeightKg": {
+        "v": 132,
+        "s": "secondary",
+        "src": "autofun-nmax-2021-dims"
+      },
+      "seatHeightMm": {
+        "v": 765,
+        "s": "secondary",
+        "src": "autofun-nmax-2021-dims"
+      },
+      "frontTyre": {
+        "v": "110/70-13",
+        "s": "secondary",
+        "src": "autofun-nmax-2021-dims"
+      },
+      "rearTyre": {
+        "v": "130/70-13",
+        "s": "secondary",
+        "src": "autofun-nmax-2021-dims"
+      },
+      "notes": "The previous model had a 1,350 mm wheelbase. The end year is not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-nmax-155-neo",
+      "family": "NMAX",
+      "label": "NMAX 155 Neo and Neo S (2025-)",
+      "yearFrom": {
+        "v": 2025,
+        "s": "secondary",
+        "src": "autofun-nmax-2025"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-nmax-155-neo",
+      "wheelbaseMm": {
+        "v": 1340,
+        "s": "secondary",
+        "src": "autofun-nmax-2025"
+      },
+      "kerbWeightKg": {
+        "v": 130,
+        "s": "secondary",
+        "src": "autofun-nmax-2025"
+      },
+      "seatHeightMm": {
+        "v": 770,
+        "s": "secondary",
+        "src": "autofun-nmax-2025"
+      },
+      "notes": "The Turbo, Tech Max and Ultimate types use the same bore, stroke and compression ratio with YECVT and are not stored separately. They weigh 133 kg (Turbo) and 135 kg (Tech Max). A Zigwheels article lists the Turbo torque at 14.2 Nm."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-lexi-lx-155",
+      "family": "Lexi",
+      "label": "Lexi LX 155 (2024-)",
+      "yearFrom": {
+        "v": 2024,
+        "s": "secondary",
+        "src": "autofun-lexi-2024"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-lexi-lx-155",
+      "transmissionId": "yamaha-lexi-lx-155-cvt",
+      "wheelbaseMm": {
+        "v": 1350,
+        "s": "secondary",
+        "src": "autofun-lexi-faq"
+      },
+      "kerbWeightKg": {
+        "v": 116,
+        "s": "secondary",
+        "src": "autofun-lexi-faq"
+      },
+      "seatHeightMm": {
+        "v": 770,
+        "s": "secondary",
+        "src": "autofun-lexi-faq"
+      },
+      "frontTyre": {
+        "v": "90/90-14",
+        "s": "secondary",
+        "src": "autofun-lexi-faq"
+      },
+      "rearTyre": {
+        "v": "100/90-14",
+        "s": "secondary",
+        "src": "autofun-lexi-faq"
+      },
+      "notes": "Kerb weight is for the standard type. The S Version is 117 kg and the Connected and ABS type is 118 kg."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-fazzio-hybrid",
+      "family": "Fazzio",
+      "label": "Fazzio Hybrid-Connected (2022-)",
+      "yearFrom": {
+        "v": 2022,
+        "s": "secondary",
+        "src": "autofun-fazzio-2022"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-fazzio-125",
+      "transmissionId": "yamaha-fazzio-cvt",
+      "notes": "Piston is taller than the FreeGo piston, which gives the higher compression ratio. Dimensions and tyres are not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-grand-filano-2023",
+      "family": "Grand Filano",
+      "label": "Grand Filano Hybrid-Connected (2023-)",
+      "yearFrom": {
+        "v": 2023,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2023"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-grand-filano-125",
+      "wheelbaseMm": {
+        "v": 1280,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2023"
+      },
+      "kerbWeightKg": {
+        "v": 100,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2023"
+      },
+      "seatHeightMm": {
+        "v": 790,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2023"
+      },
+      "frontTyre": {
+        "v": "110/70-12",
+        "s": "secondary",
+        "src": "autofun-grand-filano-2023"
+      },
+      "rearTyre": {
+        "v": "110/70-12",
+        "s": "secondary",
+        "src": "autofun-grand-filano-2023"
+      }
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-grand-filano-2015",
+      "family": "Grand Filano",
+      "label": "Grand Filano (2015, limited sale)",
+      "yearFrom": {
+        "v": 2015,
+        "s": "secondary",
+        "src": "autofun-grand-filano-2024"
+      },
+      "inProduction": false,
+      "engineId": "yamaha-grand-filano-2015",
+      "notes": "Sold in limited numbers. The end year is not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-gear-125",
+      "family": "Gear",
+      "label": "Gear 125 (Blue Core)",
+      "inProduction": false,
+      "engineId": "yamaha-125-blue-core",
+      "transmissionId": "yamaha-gear125-cvt",
+      "notes": "Shares the engine and listed output with the FreeGo 125. Years, dimensions and tyres are not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-gear-ultima-125",
+      "family": "Gear",
+      "label": "Gear Ultima 125 Hybrid",
+      "inProduction": true,
+      "engineId": "yamaha-gear-ultima-125",
+      "notes": "Fazzio-based engine. One source lists 8.3 hp at 6,500 rpm, but the unit is not the same as PS, so power is not stored. Bore, stroke and displacement are not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Scooter / Matic",
+      "id": "yamaha-freego-125",
+      "family": "FreeGo",
+      "label": "FreeGo 125 (Blue Core)",
+      "inProduction": true,
+      "engineId": "yamaha-125-blue-core",
+      "notes": "Output is taken from the Gear 125 listing. An Autofun article on the FreeGo gives 9.51 PS at 8,000 rpm and 9.5 Nm at 5,500 rpm with a 9.5:1 compression ratio and 52.4 x 57.9 mm. Years, dimensions and tyres are not stored."
+    }
+  ]
+}
