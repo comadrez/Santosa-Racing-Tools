@@ -36,6 +36,7 @@ private val srtBrandModels: Map<String, List<MotorcycleModelEntry>> = mapOf(
         MotorcycleModelEntry("BeAT", "Scooter / Matic"),
         MotorcycleModelEntry("Vario", "Scooter / Matic"),
         MotorcycleModelEntry("Scoopy", "Scooter / Matic"),
+        MotorcycleModelEntry("Spacy", "Scooter / Matic"),
         MotorcycleModelEntry("Genio", "Scooter / Matic"),
         MotorcycleModelEntry("Stylo 160", "Scooter / Matic"),
         MotorcycleModelEntry("PCX", "Scooter / Matic"),

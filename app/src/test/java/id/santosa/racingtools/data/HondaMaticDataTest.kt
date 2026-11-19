@@ -25,14 +25,15 @@ class HondaMaticDataTest {
     fun everyMaticFamilyHasRecords() {
         val catalog = load()
         val expected = mapOf(
-            "BeAT" to 2,
-            "Vario" to 3,
+            "BeAT" to 6,
+            "Vario" to 8,
             "Stylo 160" to 1,
-            "Scoopy" to 2,
+            "Scoopy" to 5,
             "Genio" to 1,
-            "PCX" to 1,
-            "ADV" to 1,
-            "Forza" to 2
+            "PCX" to 4,
+            "ADV" to 2,
+            "Forza" to 2,
+            "Spacy" to 2
         )
         expected.forEach { (family, count) ->
             assertEquals(family, count, catalog.generationsFor("Honda", family).size)

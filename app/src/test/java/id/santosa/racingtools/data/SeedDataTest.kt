@@ -34,7 +34,7 @@ class SeedDataTest {
     @Test
     fun beatRecordsShareOneSourcedEngine() {
         val catalog = load()
-        val records = catalog.generationsFor("Honda", "BeAT")
+        val records = catalog.generationsFor("Honda", "BeAT").filter { it.id.startsWith("honda-beat-gen6") }
         assertEquals(2, records.size)
         val engine = catalog.engine(records.first().engineId)!!
         assertEquals(47.0, engine.boreMm.value!!, 1e-9)
@@ -49,7 +49,7 @@ class SeedDataTest {
         val transmission = catalog.transmission("honda-beat-vmatic")!!
         assertEquals(Verification.UNKNOWN, transmission.cvtLowRatio.status)
         assertEquals(Verification.UNKNOWN, transmission.finalReduction.status)
-        val record = catalog.generationsFor("Honda", "BeAT").first()
+        val record = catalog.generations.first { it.id == "honda-beat-gen6-sporty" }
         assertEquals(Verification.UNKNOWN, record.kerbWeightKg.status)
     }
 }

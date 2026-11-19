@@ -1,0 +1,1279 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "zigwheels-vario-history",
+      "title": "Sejarah Perkembangan Honda Vario, dari 110 cc hingga 160 cc",
+      "publisher": "Zigwheels",
+      "url": "https://www.zigwheels.co.id/artikel-feature/sejarah-perkembangan-honda-vario-dari-110-cc-hingga-160-cc",
+      "published": "2022-03",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-vario110-fi-power",
+      "title": "Meski Power Lebih Kecil, Vario Injeksi Diklaim Lebih Kencang",
+      "publisher": "Otomotifnet",
+      "url": "https://otomotifnet.gridoto.com/read/231067495/meski-power-lebih-kecil-vario-injeksi-diklaim-lebih-kencang",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-vario110-fi-engine",
+      "title": "Dengan Fuel Injection, Konsumsi BBM Vario 110 FI Tembus 56 Km/Liter",
+      "publisher": "Otomotifnet",
+      "url": "https://otomotifnet.gridoto.com/read/231067479/dengan-fuel-injection-konsumsi-bbm-vario-110-fi-tembus-56-kmliter",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "cermati-vario110-esp",
+      "title": "Honda Vario 110 ESP CBS",
+      "publisher": "Cermati",
+      "url": "https://www.cermati.com/kredit-motor/honda-vario-110-esp-cbs?area=jakarta",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-vario-techno125",
+      "title": "Teknologi Honda Vario Techno 125 (bag.1), Mengenal 10 Komponen eSP Engine",
+      "publisher": "Otomotifnet",
+      "url": "https://otomotifnet.gridoto.com/read/02148969/teknologi-honda-vario-techno-125-bag1-mengenal-10-komponen-esp-engine",
+      "published": "2012-03",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-vario-injeksi-2012",
+      "title": "Bedah Honda Vario Injeksi",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/ototest-motor/d-1865529/bedah-honda-vario-injeksi",
+      "published": "2012-03",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-scoopy-history",
+      "title": "Sejarah Honda Scoopy Dari Generasi ke Generasi, Sukses Jadi Matic Idola Anak Muda",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/sejarah-honda-scoopy-dari-generasi-ke-generasi-sukses-jadi-matic-idola-anak-muda-41662",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-scoopy-2021-detail",
+      "title": "Detail Lengkap Honda Scoopy 2021, Skutik Retro Entry Level Terlaris Saat Ini",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/Detail-Lengkap-Honda-Scoopy-2021-Skutik-Retro-Entry-Level-Terlaris-Saat-Ini-23107",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "olx-scoopy-history",
+      "title": "Eksis Sejak 2010, Ini Sejarah Honda Scoopy dari Generasi ke Generasi",
+      "publisher": "OLX News",
+      "url": "https://www.olx.co.id/news/?p=32326",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "carmudi-beat-history",
+      "title": "Sejarah Honda Beat, Mulai dari Skutik Mungil sampai Mobil Sport",
+      "publisher": "Carmudi",
+      "url": "https://www.carmudi.co.id/journal/sejarah-honda-beat-mulai-dari-skutik-mungil-sampai-mobil-sport/",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-beat-history",
+      "title": "Sejarah Honda BeAT di Indonesia Sudah Ada Empat Generasi Lho, Kamu Punya yang Mana?",
+      "publisher": "Otomotifnet",
+      "url": "https://www.gridoto.com/read/222361128/sejarah-honda-beat-di-indonesia-sudah-ada-empat-generasi-lho-kamu-punya-yang-mana?page=all",
+      "published": "2020-09",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-beat-history",
+      "title": "Honda BeAT, Motor Matic yang Irit dengan Harga Terjangkau",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/honda-beat-motor-matic-yang-irit-dengan-harga-terjangkau-471084",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-beat-2020",
+      "title": "Alasan BeAT Belum Naik Kelas ke Mesin Lebih Besar",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/motor/d-4863328/alasan-beat-belum-naik-kelas-ke-mesin-lebih-besar",
+      "published": "2020-01",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-pcx150-engine",
+      "title": "Bedah Teknologi Mesin Honda PCX 150, 80 Persen Baru",
+      "publisher": "Otomotifnet",
+      "url": "https://otomotifnet.gridoto.com/read/231070402/bedah-teknologi-mesin-honda-pcx-150-80-persen-baru",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-pcx150-firstimpression",
+      "title": "First Impression Review All New Honda PCX 150, Nih Kelebihan dan Kekurangannya",
+      "publisher": "Otomotifnet",
+      "url": "https://www.gridoto.com/read/221014886/first-impression-review-all-new-honda-pcx-150-nih-kelebihan-dan-kekurangannya?page=all",
+      "published": "2018-02",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "zigwheels-pcx150-firstimpression",
+      "title": "First Impression: All New Honda PCX, Nyaman dan Easy Handling",
+      "publisher": "Zigwheels",
+      "url": "https://www.zigwheels.co.id/motovaganza/first-impression-new-honda-pcx-nyaman-dan-easy-handling",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-pcx150-vs-nmax",
+      "title": "Membandingkan Teknologi Mesin NMAX 155 dan PCX 150, Ini Plus Minusnya",
+      "publisher": "Otomotifnet",
+      "url": "https://www.gridoto.com/read/221008471/membandingkan-teknologi-mesin-nmax-155-dan-pcx-150-ini-plus-minusnya?page=all",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-adv150-firstride",
+      "title": "Ulasan Lengkap Rasanya First Ride Honda ADV150, Cuma Keren Doang?",
+      "publisher": "Otomotifnet",
+      "url": "https://www.gridoto.com/amp/221797448/ulasan-lengkap-rasanya-first-ride-honda-adv150-cuma-keren-doang?page=all",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "carmudi-adv150-credit",
+      "title": "Kredit Honda ADV 150 2019, Cicilan Mulai Rp1,5 Jutaan",
+      "publisher": "Carmudi",
+      "url": "https://www.carmudi.co.id/journal/kredit-honda-adv-150-2019-cicilan-mulai-rp15-jutaan/",
+      "published": "2019",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-adv150-2022",
+      "title": "Mengintip Kembali Spesifikasi Detail Honda ADV150 2022, Istimewa Dari Matic Lain?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/mengintip-kembali-spesifikasi-detail-honda-adv150-2022-istimewa-dari-matic-lain-39422",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-adv150-tyres",
+      "title": "Lebih Boros dari Honda PCX, Menggoda kah Honda ADV 150 Dibeli?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/lebih-boros-dari-honda-pcx-menggoda-kah-honda-adv-150-dibeli-23222",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-spacy-firstride",
+      "title": "First Ride Honda Spacy Helm In",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/berita/d-1632735/first-ride-honda-spacy-helm-in",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-spacy-features",
+      "title": "Bedah Fitur Honda Spacy, Lega dan Elegan",
+      "publisher": "Otomotifnet",
+      "url": "https://otomotifnet.gridoto.com/read/231043568/bedah-fitur-honda-spacy-lega-dan-elegan",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "cermati-spacy-fi",
+      "title": "Honda Spacy FI",
+      "publisher": "Cermati",
+      "url": "https://www.cermati.com/kredit-motor/honda-spacy-fi",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-spacy-used",
+      "title": "Cek Plus-Minus Honda Spacy Bekas, Motor Nyaman yang Kalah Pamor",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/cek-plusminus-honda-spacy-bekas-motor-nyaman-yang-kalah-pamor-64197",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    }
+  ],
+  "engines": [
+    {
+      "id": "honda-vario110-carb-lc",
+      "name": "108 cc SOHC single, liquid-cooled, carburettor (50 x 55 mm)",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-engine"
+      },
+      "fuelSystem": {
+        "v": "Carburettor (Keihin AVK22)",
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "strokeMm": {
+        "v": 55.0,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "displacementCc": {
+        "v": 108.0,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "compressionRatio": {
+        "v": 10.7,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "powerPs": {
+        "v": 8.99,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "torqueNm": {
+        "v": 8.4,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      }
+    },
+    {
+      "id": "honda-vario110-fi-air",
+      "name": "108 cc SOHC single, air-cooled, fuel injection (50 x 55 mm)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-engine"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-engine"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-engine"
+      },
+      "strokeMm": {
+        "v": 55.0,
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-engine"
+      },
+      "displacementCc": {
+        "v": 108.0,
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-engine"
+      },
+      "powerPs": {
+        "v": 8.52,
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-power"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-power"
+      }
+    },
+    {
+      "id": "honda-vario110-esp",
+      "name": "Vario 110 eSP, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "powerPs": {
+        "v": 8.7,
+        "s": "secondary",
+        "src": "cermati-vario110-esp"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "cermati-vario110-esp"
+      },
+      "torqueNm": {
+        "v": 9.1,
+        "s": "secondary",
+        "src": "cermati-vario110-esp"
+      },
+      "torqueRpm": {
+        "v": 6000,
+        "s": "secondary",
+        "src": "cermati-vario110-esp"
+      }
+    },
+    {
+      "id": "honda-vario125-pgmfi",
+      "name": "124.8 cc SOHC PGM-FI single, liquid-cooled (52.4 x 57.9 mm)",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "detik-vario-injeksi-2012"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "detik-vario-injeksi-2012"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "gridoto-vario-techno125"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "gridoto-vario-techno125"
+      },
+      "displacementCc": {
+        "v": 124.8,
+        "s": "secondary",
+        "src": "gridoto-vario-techno125"
+      },
+      "powerPs": {
+        "v": 11.3,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "powerRpm": {
+        "v": 8500,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "torqueNm": {
+        "v": 10.7,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "torqueRpm": {
+        "v": 5000,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      }
+    },
+    {
+      "id": "honda-scoopy-carb-110",
+      "name": "108 cc SOHC single, carburettor",
+      "fuelSystem": {
+        "v": "Carburettor",
+        "s": "secondary",
+        "src": "autofun-scoopy-history"
+      },
+      "displacementCc": {
+        "v": 108.0,
+        "s": "secondary",
+        "src": "autofun-scoopy-history"
+      },
+      "powerPs": {
+        "v": 8.22,
+        "s": "secondary",
+        "src": "autofun-scoopy-history"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-scoopy-history"
+      },
+      "torqueNm": {
+        "v": 8.32,
+        "s": "secondary",
+        "src": "autofun-scoopy-history"
+      },
+      "torqueRpm": {
+        "v": 5500,
+        "s": "secondary",
+        "src": "autofun-scoopy-history"
+      }
+    },
+    {
+      "id": "honda-scoopy-fi-110",
+      "name": "Scoopy FI, fuel injection",
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "autofun-scoopy-history"
+      }
+    },
+    {
+      "id": "honda-scoopy-esp-110-gen3",
+      "name": "Scoopy eSP",
+      "powerPs": {
+        "v": 8.7,
+        "s": "secondary",
+        "src": "olx-scoopy-history"
+      },
+      "torqueNm": {
+        "v": 9.1,
+        "s": "secondary",
+        "src": "olx-scoopy-history"
+      }
+    },
+    {
+      "id": "honda-beat-carb-108",
+      "name": "108 cc SOHC single, air-cooled, carburettor (50 x 55 mm)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "fuelSystem": {
+        "v": "Carburettor",
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "strokeMm": {
+        "v": 55.0,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "displacementCc": {
+        "v": 108.0,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "compressionRatio": {
+        "v": 9.2,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "powerPs": {
+        "v": 8.22,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "torqueNm": {
+        "v": 8.32,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "torqueRpm": {
+        "v": 5500,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      }
+    },
+    {
+      "id": "honda-beat-gen2-fi",
+      "name": "SOHC single, air-cooled, PGM-FI (50 x 55 mm)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "strokeMm": {
+        "v": 55.0,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "compressionRatio": {
+        "v": 9.2,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "powerPs": {
+        "v": 8.52,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "torqueNm": {
+        "v": 8.68,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      }
+    },
+    {
+      "id": "honda-beat-esp-108-gen3",
+      "name": "SOHC single, air-cooled, injection (50.0 x 55.1 mm)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "strokeMm": {
+        "v": 55.1,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "compressionRatio": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "powerPs": {
+        "v": 8.68,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "torqueNm": {
+        "v": 9.01,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "carmudi-beat-history"
+      }
+    },
+    {
+      "id": "honda-beat-2020-esp",
+      "name": "SOHC single, eSP (47.0 x 63.1 mm)",
+      "boreMm": {
+        "v": 47.0,
+        "s": "secondary",
+        "src": "detik-beat-2020"
+      },
+      "strokeMm": {
+        "v": 63.1,
+        "s": "secondary",
+        "src": "detik-beat-2020"
+      },
+      "powerPs": {
+        "v": 8.8,
+        "s": "secondary",
+        "src": "autofun-beat-history"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "autofun-beat-history"
+      },
+      "torqueNm": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "autofun-beat-history"
+      },
+      "torqueRpm": {
+        "v": 5500,
+        "s": "secondary",
+        "src": "autofun-beat-history"
+      }
+    },
+    {
+      "id": "honda-pcx125",
+      "name": "PCX 125 (52.4 x 57.9 mm)",
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "gridoto-pcx150-engine"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "gridoto-pcx150-engine"
+      },
+      "powerPs": {
+        "v": 11.4,
+        "s": "secondary",
+        "src": "gridoto-pcx150-engine"
+      },
+      "powerRpm": {
+        "v": 8500,
+        "s": "secondary",
+        "src": "gridoto-pcx150-engine"
+      },
+      "torqueNm": {
+        "v": 11.7,
+        "s": "secondary",
+        "src": "gridoto-pcx150-engine"
+      },
+      "torqueRpm": {
+        "v": 6000,
+        "s": "secondary",
+        "src": "gridoto-pcx150-engine"
+      }
+    },
+    {
+      "id": "honda-pcx150-cbu",
+      "name": "152.9 cc PGM-FI single (58.0 x 57.9 mm)",
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "gridoto-pcx150-vs-nmax"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "gridoto-pcx150-vs-nmax"
+      },
+      "displacementCc": {
+        "v": 152.9,
+        "s": "secondary",
+        "src": "gridoto-pcx150-vs-nmax"
+      }
+    },
+    {
+      "id": "honda-pcx150-esp",
+      "name": "149.3 cc SOHC 2-valve eSP single, liquid-cooled (57.3 x 57.9 mm)",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "zigwheels-pcx150-firstimpression"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "zigwheels-pcx150-firstimpression"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "gridoto-pcx150-firstimpression"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "gridoto-pcx150-firstimpression"
+      },
+      "displacementCc": {
+        "v": 149.3,
+        "s": "secondary",
+        "src": "zigwheels-pcx150-firstimpression"
+      },
+      "compressionRatio": {
+        "v": 10.6,
+        "s": "secondary",
+        "src": "gridoto-pcx150-firstimpression"
+      },
+      "powerPs": {
+        "v": 14.7,
+        "s": "secondary",
+        "src": "zigwheels-pcx150-firstimpression"
+      },
+      "powerRpm": {
+        "v": 8500,
+        "s": "secondary",
+        "src": "zigwheels-pcx150-firstimpression"
+      },
+      "torqueNm": {
+        "v": 13.2,
+        "s": "secondary",
+        "src": "gridoto-pcx150-firstimpression"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "gridoto-pcx150-firstimpression"
+      }
+    },
+    {
+      "id": "honda-adv150-esp",
+      "name": "149.3 cc SOHC 2-valve eSP single, liquid-cooled (57.3 x 57.9 mm)",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "gridoto-adv150-firstride"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "gridoto-adv150-firstride"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "gridoto-adv150-firstride"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "gridoto-adv150-firstride"
+      },
+      "displacementCc": {
+        "v": 149.3,
+        "s": "secondary",
+        "src": "gridoto-adv150-firstride"
+      },
+      "compressionRatio": {
+        "v": 10.6,
+        "s": "secondary",
+        "src": "gridoto-adv150-firstride"
+      },
+      "powerPs": {
+        "v": 14.5,
+        "s": "secondary",
+        "src": "carmudi-adv150-credit"
+      },
+      "powerRpm": {
+        "v": 8500,
+        "s": "secondary",
+        "src": "carmudi-adv150-credit"
+      },
+      "torqueNm": {
+        "v": 13.8,
+        "s": "secondary",
+        "src": "carmudi-adv150-credit"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "carmudi-adv150-credit"
+      }
+    },
+    {
+      "id": "honda-spacy-carb",
+      "name": "108 cc SOHC single, fan-cooled, carburettor (50 x 55 mm)",
+      "cooling": {
+        "v": "Fan-cooled",
+        "s": "secondary",
+        "src": "gridoto-spacy-features"
+      },
+      "fuelSystem": {
+        "v": "Carburettor",
+        "s": "secondary",
+        "src": "cermati-spacy-fi"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "gridoto-spacy-features"
+      },
+      "strokeMm": {
+        "v": 55.0,
+        "s": "secondary",
+        "src": "gridoto-spacy-features"
+      },
+      "displacementCc": {
+        "v": 108.0,
+        "s": "secondary",
+        "src": "gridoto-spacy-features"
+      },
+      "compressionRatio": {
+        "v": 9.2,
+        "s": "secondary",
+        "src": "gridoto-spacy-features"
+      },
+      "powerPs": {
+        "v": 8.54,
+        "s": "secondary",
+        "src": "gridoto-spacy-features"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "gridoto-spacy-features"
+      },
+      "torqueNm": {
+        "v": 8.03,
+        "s": "secondary",
+        "src": "detik-spacy-firstride"
+      },
+      "torqueRpm": {
+        "v": 6000,
+        "s": "secondary",
+        "src": "detik-spacy-firstride"
+      }
+    },
+    {
+      "id": "honda-spacy-fi",
+      "name": "108 cc SOHC 2-valve PGM-FI single, air-cooled (50 x 55 mm)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "cermati-spacy-fi"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      },
+      "strokeMm": {
+        "v": 55.0,
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      },
+      "displacementCc": {
+        "v": 108.0,
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      },
+      "compressionRatio": {
+        "v": 9.2,
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      },
+      "powerPs": {
+        "v": 8.67,
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      }
+    }
+  ],
+  "transmissions": [
+    {
+      "id": "honda-pcx150-vmatic",
+      "kind": {
+        "v": "Automatic (V-Matic)",
+        "s": "secondary",
+        "src": "gridoto-pcx150-firstimpression"
+      }
+    },
+    {
+      "id": "honda-adv150-vmatic",
+      "kind": {
+        "v": "Automatic (V-Matic)",
+        "s": "secondary",
+        "src": "gridoto-adv150-firstride"
+      }
+    },
+    {
+      "id": "honda-spacy-vmatic",
+      "kind": {
+        "v": "Automatic (V-Matic)",
+        "s": "secondary",
+        "src": "detik-spacy-firstride"
+      }
+    }
+  ],
+  "generations": [
+    {
+      "id": "honda-vario-gen1-110",
+      "brand": "Honda",
+      "family": "Vario",
+      "category": "Scooter / Matic",
+      "label": "110 carburettor, first generation (2006-)",
+      "yearFrom": {
+        "v": 2006,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-vario110-carb-lc",
+      "notes": "The source gives the launch year only. The first Vario was sold with this one engine."
+    },
+    {
+      "id": "honda-vario-techno-110",
+      "brand": "Honda",
+      "family": "Vario",
+      "category": "Scooter / Matic",
+      "label": "Techno 110 carburettor (2009-)",
+      "yearFrom": {
+        "v": 2009,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-vario110-carb-lc",
+      "notes": "Same engine as the first generation according to the source. It added CBS."
+    },
+    {
+      "id": "honda-vario-110-fi-air",
+      "brand": "Honda",
+      "family": "Vario",
+      "category": "Scooter / Matic",
+      "label": "110 FI, air-cooled",
+      "inProduction": false,
+      "engineId": "honda-vario110-fi-air",
+      "kerbWeightKg": {
+        "v": 95.0,
+        "s": "secondary",
+        "src": "gridoto-vario110-fi-power"
+      },
+      "notes": "Sources disagree on the launch year (2013 and 2014), so it is not stored. The carburettor Vario it replaced weighed 99.3 kg in the same source."
+    },
+    {
+      "id": "honda-vario-110-esp",
+      "brand": "Honda",
+      "family": "Vario",
+      "category": "Scooter / Matic",
+      "label": "110 eSP CBS (2015-2020)",
+      "yearFrom": {
+        "v": 2015,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "yearTo": {
+        "v": 2020,
+        "s": "secondary",
+        "src": "zigwheels-vario-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-vario110-esp",
+      "wheelbaseMm": {
+        "v": 1256,
+        "s": "secondary",
+        "src": "cermati-vario110-esp"
+      },
+      "kerbWeightKg": {
+        "v": 96.0,
+        "s": "secondary",
+        "src": "cermati-vario110-esp"
+      },
+      "notes": "Bore, stroke and compression ratio are not stored. The source says the engine comes from the BeAT but gives no figures."
+    },
+    {
+      "id": "honda-vario-techno-125-pgmfi",
+      "brand": "Honda",
+      "family": "Vario",
+      "category": "Scooter / Matic",
+      "label": "Techno 125 PGM-FI (2012-2015)",
+      "yearFrom": {
+        "v": 2012,
+        "s": "secondary",
+        "src": "gridoto-vario-techno125"
+      },
+      "inProduction": false,
+      "engineId": "honda-vario125-pgmfi",
+      "notes": "One source ends production in 2015 and others give 2013 for the launch, so yearTo is not stored."
+    },
+    {
+      "id": "honda-scoopy-gen1-carb",
+      "brand": "Honda",
+      "family": "Scoopy",
+      "category": "Scooter / Matic",
+      "label": "110 carburettor, first generation (2010-2013)",
+      "yearFrom": {
+        "v": 2010,
+        "s": "secondary",
+        "src": "autofun-scoopy-2021-detail"
+      },
+      "yearTo": {
+        "v": 2013,
+        "s": "secondary",
+        "src": "autofun-scoopy-2021-detail"
+      },
+      "inProduction": false,
+      "engineId": "honda-scoopy-carb-110",
+      "notes": "Power is 8.22 PS in one source and 8.13 PS in another. Bore and stroke are not stored."
+    },
+    {
+      "id": "honda-scoopy-gen2-fi",
+      "brand": "Honda",
+      "family": "Scoopy",
+      "category": "Scooter / Matic",
+      "label": "FI, second generation (2013-2015)",
+      "yearFrom": {
+        "v": 2013,
+        "s": "secondary",
+        "src": "autofun-scoopy-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-scoopy-fi-110",
+      "notes": "The source says only that the engine moved to fuel injection. No output figures are stored."
+    },
+    {
+      "id": "honda-scoopy-gen3-esp",
+      "brand": "Honda",
+      "family": "Scoopy",
+      "category": "Scooter / Matic",
+      "label": "eSP, third generation (2015-2017)",
+      "yearFrom": {
+        "v": 2015,
+        "s": "secondary",
+        "src": "autofun-scoopy-2021-detail"
+      },
+      "yearTo": {
+        "v": 2017,
+        "s": "secondary",
+        "src": "autofun-scoopy-2021-detail"
+      },
+      "inProduction": false,
+      "engineId": "honda-scoopy-esp-110-gen3",
+      "notes": "Same body as the second generation. The source gives output only, without rpm."
+    },
+    {
+      "id": "honda-beat-gen1-carb",
+      "brand": "Honda",
+      "family": "BeAT",
+      "category": "Scooter / Matic",
+      "label": "First generation, carburettor (2008-2012)",
+      "yearFrom": {
+        "v": 2008,
+        "s": "secondary",
+        "src": "gridoto-beat-history"
+      },
+      "yearTo": {
+        "v": 2012,
+        "s": "secondary",
+        "src": "gridoto-beat-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-beat-carb-108"
+    },
+    {
+      "id": "honda-beat-gen2-pgmfi",
+      "brand": "Honda",
+      "family": "BeAT",
+      "category": "Scooter / Matic",
+      "label": "PGM-FI (2012-)",
+      "yearFrom": {
+        "v": 2012,
+        "s": "secondary",
+        "src": "gridoto-beat-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-beat-gen2-fi",
+      "notes": "Released on 11 October 2012. The end year is not stored because the sources number the next generations differently."
+    },
+    {
+      "id": "honda-beat-gen3-esp",
+      "brand": "Honda",
+      "family": "BeAT",
+      "category": "Scooter / Matic",
+      "label": "eSP, 50.0 x 55.1 mm engine",
+      "inProduction": false,
+      "engineId": "honda-beat-esp-108-gen3",
+      "notes": "Sources date this body between 2014 and 2016, so the years are not stored."
+    },
+    {
+      "id": "honda-beat-2020-esaf",
+      "brand": "Honda",
+      "family": "BeAT",
+      "category": "Scooter / Matic",
+      "label": "eSAF frame, 47.0 x 63.1 mm engine (2020-)",
+      "yearFrom": {
+        "v": 2020,
+        "s": "secondary",
+        "src": "gridoto-beat-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-beat-2020-esp",
+      "notes": "Released on 16 January 2020. Power is 8.8 PS in one source and 6.6 kW (8.97 PS) in another."
+    },
+    {
+      "id": "honda-pcx-125",
+      "brand": "Honda",
+      "family": "PCX",
+      "category": "Scooter / Matic",
+      "label": "125 (52.4 x 57.9 mm)",
+      "inProduction": false,
+      "engineId": "honda-pcx125",
+      "notes": "Imported model that the Indonesian PCX 150 replaced. Displacement and years are not stored."
+    },
+    {
+      "id": "honda-pcx-150-cbu",
+      "brand": "Honda",
+      "family": "PCX",
+      "category": "Scooter / Matic",
+      "label": "150 CBU, Vietnam import (58.0 x 57.9 mm)",
+      "inProduction": false,
+      "engineId": "honda-pcx150-cbu",
+      "notes": "Sources give two different output sets for this engine (9.67 kW and 13.1 Nm, or 10 kW and 13.8 Nm), so output is not stored."
+    },
+    {
+      "id": "honda-pcx-150",
+      "brand": "Honda",
+      "family": "PCX",
+      "category": "Scooter / Matic",
+      "label": "150 eSP, Indonesian assembly (2018-)",
+      "yearFrom": {
+        "v": 2018,
+        "s": "secondary",
+        "src": "gridoto-pcx150-firstimpression"
+      },
+      "inProduction": false,
+      "engineId": "honda-pcx150-esp",
+      "transmissionId": "honda-pcx150-vmatic",
+      "wheelbaseMm": {
+        "v": 1313,
+        "s": "secondary",
+        "src": "zigwheels-pcx150-firstimpression"
+      },
+      "seatHeightMm": {
+        "v": 764,
+        "s": "secondary",
+        "src": "zigwheels-pcx150-firstimpression"
+      },
+      "notes": "Power is 14.7 PS in one source and 14.5 PS or 14.4 PS in others. Kerb weight is 131 kg CBS and 132 kg ABS, so it is not stored. Replaced by the PCX 160."
+    },
+    {
+      "id": "honda-adv-150",
+      "brand": "Honda",
+      "family": "ADV",
+      "category": "Scooter / Matic",
+      "label": "150 eSP (2019-)",
+      "yearFrom": {
+        "v": 2019,
+        "s": "secondary",
+        "src": "gridoto-adv150-firstride"
+      },
+      "inProduction": false,
+      "engineId": "honda-adv150-esp",
+      "transmissionId": "honda-adv150-vmatic",
+      "wheelbaseMm": {
+        "v": 1324,
+        "s": "secondary",
+        "src": "autofun-adv150-2022"
+      },
+      "seatHeightMm": {
+        "v": 795,
+        "s": "secondary",
+        "src": "autofun-adv150-2022"
+      },
+      "frontTyre": {
+        "v": "110/80-14",
+        "s": "secondary",
+        "src": "autofun-adv150-tyres"
+      },
+      "rearTyre": {
+        "v": "130/70-13",
+        "s": "secondary",
+        "src": "autofun-adv150-tyres"
+      },
+      "notes": "Compression ratio is 10.6:1 in most sources and 10.8:1 in two Autofun tables. Kerb weight is 132 kg CBS and 133 kg ABS. Replaced by the ADV 160."
+    },
+    {
+      "id": "honda-spacy-helmin-carb",
+      "brand": "Honda",
+      "family": "Spacy",
+      "category": "Scooter / Matic",
+      "label": "Helm In, carburettor (2011-)",
+      "yearFrom": {
+        "v": 2011,
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      },
+      "inProduction": false,
+      "engineId": "honda-spacy-carb",
+      "transmissionId": "honda-spacy-vmatic",
+      "kerbWeightKg": {
+        "v": 97.0,
+        "s": "secondary",
+        "src": "cermati-spacy-fi"
+      },
+      "notes": "Carburettor and PGM-FI versions were sold side by side, so the end year is on the PGM-FI record."
+    },
+    {
+      "id": "honda-spacy-helmin-pgmfi",
+      "brand": "Honda",
+      "family": "Spacy",
+      "category": "Scooter / Matic",
+      "label": "Helm In, PGM-FI (-2018)",
+      "yearTo": {
+        "v": 2018,
+        "s": "secondary",
+        "src": "autofun-spacy-used"
+      },
+      "inProduction": false,
+      "engineId": "honda-spacy-fi",
+      "transmissionId": "honda-spacy-vmatic",
+      "kerbWeightKg": {
+        "v": 99.0,
+        "s": "secondary",
+        "src": "cermati-spacy-fi"
+      },
+      "notes": "The source gives 2011 to 2018 for the Spacy as a whole and does not date the PGM-FI version separately."
+    }
+  ]
+}

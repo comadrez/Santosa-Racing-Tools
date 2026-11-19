@@ -3,6 +3,7 @@
   "files": [
     "honda.json",
     "honda-matic.json",
+    "honda-matic-older.json",
     "honda-underbone.json"
   ]
 }
