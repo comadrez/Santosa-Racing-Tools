@@ -8,11 +8,12 @@ Done:
 - Gear ratio and road speed
 - Unit tests for the calculation code
 - Specification database, part 1: data format, loader, validator, tests and the catalogue screen, with Honda BeAT as sample data
+- Specification database, part 2: Honda matic, current models (Vario 125, Vario 150, Vario 160, Stylo 160, Scoopy, Genio, PCX 160, ADV 160, Forza 250) in `honda-matic.json`
 
 Next:
 
 - Wheelie check calculator for bore-up CVT scooters (not built yet)
-- Specification database, part 2 onward
+- Specification database, part 2 older models, then part 3 onward
 
 Not started:
 
@@ -34,7 +35,8 @@ Size estimate (my estimate, not a sourced count):
 Parts, tick each one when its data is in the repository:
 
 - [x] 1. Data format and app code
-- [ ] 2. Honda matic
+- [x] 2. Honda matic, current models
+- [ ] 2b. Honda matic, older and discontinued models (earlier Vario 110 and 125, Spacy, Vision, Lead, Scoopy, PCX 125 and 150, ADV 150, older BeAT)
 - [ ] 3. Honda underbone and cub
 - [ ] 4. Honda sport, trail and big bikes
 - [ ] 5. Yamaha matic
