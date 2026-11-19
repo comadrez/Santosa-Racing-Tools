@@ -1,0 +1,771 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "zigwheels-supra125",
+      "title": "Honda Supra X 125 FI",
+      "publisher": "Zigwheels",
+      "url": "https://www.zigwheels.co.id/motor-baru/honda/supra-x-125-fi/",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "cermati-supra125",
+      "title": "Honda Supra X 125 FI SW",
+      "publisher": "Cermati",
+      "url": "https://www.cermati.com/kredit-motor/honda-supra-x-125-fi-sw?area=jakarta",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-supra125-2026",
+      "title": "Motor Bebek Irit Tembus 57 Km/Liter, Segini Harga Honda Supra X 125 Baru",
+      "publisher": "GridOto",
+      "url": "https://www.gridoto.com/read/224392438/motor-bebek-irit-tembus-57-kmliter-segini-harga-honda-supra-x-125-baru",
+      "published": "2026-07",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-supra125-helmin",
+      "title": "Honda Supra X 125 Helm In 2011-2018, Punya Akomodasi Terbaik Walau Batoknya Suka Getar",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/honda-supra-x-125-helm-in-20112018-punya-akomodasi-terbaik-walau-batoknya-suka-getar-33657",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-blade125-firstride",
+      "title": "First Ride Honda Blade 125 FI, Makin Mirip Supra 125 FI",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231043277/first-ride-honda-blade-125-fi-makin-mirip-supra-125-fi",
+      "published": "2014-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-blade125-testride",
+      "title": "Test Ride New Honda Blade 125 FI",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/ototest-motor/d-2542796/test-ride-new-honda-blade-125-fi",
+      "published": "2014-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-blade-2011",
+      "title": "Spesifikasi Lengkap Honda Blade",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/motor/d-1691457/spesifikasi-lengkap-honda-blade",
+      "published": "2011-07",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-revo-x-2022",
+      "title": "Harga Honda Revo X 2022 Nyaris Rp17 Juta, Menarik Buat Dicicil?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/harga-honda-revo-x-2022-nyaris-rp17-juta-menarik-buat-dicicil-40356",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-revo-2026",
+      "title": "Konsumsi BBM Motor Bebek Termurah Honda di Indonesia, Tembus Segini",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/motor/d-8653225/konsumsi-bbm-motor-bebek-termurah-honda-di-indonesia-tembus-segini",
+      "published": "2026-09",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "oto-revo-x",
+      "title": "Honda Revo X",
+      "publisher": "Oto.com",
+      "url": "https://oto.com/en/motor-baru/honda/revo/x",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-gtr-2022",
+      "title": "Honda Supra GTR 150 2022 Punya Akselerasi Lincah, Ternyata Segini Konsumsi Bensinnya",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/honda-supra-gtr-150-2022-punya-akselerasi-lincah-ternyata-segini-konsumsi-bensinnya-34793",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-gtr-torque",
+      "title": "Rajanya Bebek, Honda Supra GTR 150 Kini Makin Agresif, Bikin Lawan Sulit Menyalip?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/rajanya-bebek-honda-supra-gtr-150-kini-makin-agresif-bikin-lawan-sulit-menyalip-7473",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-gtr-cylinder",
+      "title": "Responsifnya Honda Supra GTR 150, 201 Meter Ditempuh 10,9 Detik Saja",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/responsifnya-honda-supra-gtr-150-201-meter-ditempuh-109-detik-saja-67129",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-gtr-2023",
+      "title": "Menjajal Honda Supra GTR 150, Si Bebek Super yang Responsif",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/menjajal-honda-supra-gtr-150-si-bebek-super-yang-responsif-67407",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-gtr-vs-mxking",
+      "title": "Komparasi Bebek Super, Mending Supra GTR 150 atau MX King 150?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/komparasi-bebek-super-mending-supra-gtr-150-atau-mx-king-150-61353",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-sonic-2024",
+      "title": "Nyaris Gak Dilirik, Diskon Motor Ayago Ini Sekarang Hampir Rp4 Juta",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/nyaris-gak-dilirik-diskon-motor-ayago-ini-sekarang-hampir-rp4-juta-76727",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-sonic-2022",
+      "title": "Kelebihan-Kekurangan Sonic 150R 2022, Si Ayam Jago Incaran Anak Muda",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/kelebihankekurangan-sonic-150r-2022-si-ayam-jago-incaran-anak-muda-35468",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-sonic-firstride",
+      "title": "First Ride New Honda Sonic 150R, Galak Di Putaran Bawah!",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231043126/first-ride-new-honda-sonic-150r-galak-di-putaran-bawah",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-sonic-launch",
+      "title": "Nih Spesifikasi dan Detail Lengkap Honda Sonic 150R, Pertama di Dunia!",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231041153/nih-spesifikasi-dan-detail-lengkap-honda-sonic-150r-pertama-di-dunia",
+      "published": "2015-08",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    }
+  ],
+  "engines": [
+    {
+      "id": "honda-supra125-fi",
+      "name": "124.89 cc SOHC PGM-FI single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "zigwheels-supra125"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "cermati-supra125"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "gridoto-supra125-2026"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "cermati-supra125"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "cermati-supra125"
+      },
+      "displacementCc": {
+        "v": 124.89,
+        "s": "secondary",
+        "src": "cermati-supra125"
+      },
+      "compressionRatio": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "cermati-supra125"
+      },
+      "powerPs": {
+        "v": 10.1,
+        "s": "secondary",
+        "src": "cermati-supra125"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "cermati-supra125"
+      },
+      "torqueNm": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "zigwheels-supra125"
+      },
+      "torqueRpm": {
+        "v": 4000,
+        "s": "secondary",
+        "src": "zigwheels-supra125"
+      }
+    },
+    {
+      "id": "honda-supra125-helmin",
+      "name": "124.8 cc SOHC 2-valve PGM-FI single",
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "displacementCc": {
+        "v": 124.8,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "powerPs": {
+        "v": 9.63,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "torqueNm": {
+        "v": 10.59,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      }
+    },
+    {
+      "id": "honda-blade125-fi",
+      "name": "124.89 cc SOHC 2-valve PGM-FI single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "detik-blade125-testride"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "detik-blade125-testride"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "displacementCc": {
+        "v": 124.89,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "compressionRatio": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "powerPs": {
+        "v": 10.1,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "torqueNm": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "torqueRpm": {
+        "v": 4000,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      }
+    },
+    {
+      "id": "honda-blade110",
+      "name": "109.1 cc SOHC single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "detik-blade-2011"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "detik-blade-2011"
+      },
+      "strokeMm": {
+        "v": 55.6,
+        "s": "secondary",
+        "src": "detik-blade-2011"
+      },
+      "displacementCc": {
+        "v": 109.1,
+        "s": "secondary",
+        "src": "detik-blade-2011"
+      }
+    },
+    {
+      "id": "honda-revo-fi-110",
+      "name": "109.17 cc SOHC PGM-FI single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "strokeMm": {
+        "v": 55.6,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "displacementCc": {
+        "v": 109.17,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "compressionRatio": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "powerPs": {
+        "v": 8.91,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "torqueNm": {
+        "v": 8.76,
+        "s": "secondary",
+        "src": "detik-revo-2026"
+      },
+      "torqueRpm": {
+        "v": 6000,
+        "s": "secondary",
+        "src": "detik-revo-2026"
+      }
+    },
+    {
+      "id": "honda-supragtr150",
+      "name": "149.16 cc DOHC 4-valve PGM-FI single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "autofun-gtr-cylinder"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "strokeMm": {
+        "v": 57.8,
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "displacementCc": {
+        "v": 149.16,
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "compressionRatio": {
+        "v": 11.3,
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "powerPs": {
+        "v": 16.3,
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "powerRpm": {
+        "v": 9000,
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "torqueNm": {
+        "v": 14.2,
+        "s": "secondary",
+        "src": "autofun-gtr-torque"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-gtr-torque"
+      }
+    },
+    {
+      "id": "honda-sonic150r",
+      "name": "149.16 cc DOHC 4-valve PGM-FI single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "autofun-sonic-2022"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "gridoto-sonic-firstride"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "strokeMm": {
+        "v": 57.8,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "displacementCc": {
+        "v": 149.16,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "compressionRatio": {
+        "v": 11.3,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "powerPs": {
+        "v": 16.0,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "powerRpm": {
+        "v": 9000,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "torqueNm": {
+        "v": 13.5,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      }
+    }
+  ],
+  "transmissions": [
+    {
+      "id": "honda-supra125-4speed",
+      "kind": {
+        "v": "Manual, 4-speed",
+        "s": "secondary",
+        "src": "zigwheels-supra125"
+      }
+    },
+    {
+      "id": "honda-supra125-helmin-4speed",
+      "kind": {
+        "v": "Manual, 4-speed",
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      }
+    },
+    {
+      "id": "honda-blade125-4speed",
+      "kind": {
+        "v": "Manual, 4-speed",
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      }
+    },
+    {
+      "id": "honda-revo-4speed",
+      "kind": {
+        "v": "Manual, 4-speed",
+        "s": "secondary",
+        "src": "oto-revo-x"
+      }
+    },
+    {
+      "id": "honda-supragtr150-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      }
+    },
+    {
+      "id": "honda-sonic150r-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      }
+    }
+  ],
+  "generations": [
+    {
+      "id": "honda-supra-x-125-fi",
+      "brand": "Honda",
+      "family": "Supra",
+      "category": "Underbone / Cub",
+      "label": "X 125 FI",
+      "inProduction": true,
+      "engineId": "honda-supra125-fi",
+      "transmissionId": "honda-supra125-4speed",
+      "wheelbaseMm": {
+        "v": 1235,
+        "s": "secondary",
+        "src": "zigwheels-supra125"
+      },
+      "notes": "Kerb weight is 106 kg with cast wheels and 103 kg with spoke wheels, so it is not stored yet."
+    },
+    {
+      "id": "honda-supra-x-125-helmin",
+      "brand": "Honda",
+      "family": "Supra",
+      "category": "Underbone / Cub",
+      "label": "X 125 Helm In (2011-2018)",
+      "yearFrom": {
+        "v": 2011,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "yearTo": {
+        "v": 2018,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "engineId": "honda-supra125-helmin",
+      "transmissionId": "honda-supra125-helmin-4speed",
+      "wheelbaseMm": {
+        "v": 1258,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "kerbWeightKg": {
+        "v": 107,
+        "s": "secondary",
+        "src": "autofun-supra125-helmin"
+      },
+      "notes": "The source lists the torque rpm as 7,500, which looks doubtful, so the torque rpm is left out. Compression ratio and cooling are not in the source."
+    },
+    {
+      "id": "honda-supra-gtr-150",
+      "brand": "Honda",
+      "family": "Supra",
+      "category": "Underbone / Cub",
+      "label": "GTR 150",
+      "inProduction": true,
+      "engineId": "honda-supragtr150",
+      "transmissionId": "honda-supragtr150-6speed",
+      "wheelbaseMm": {
+        "v": 1284,
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "kerbWeightKg": {
+        "v": 119,
+        "s": "secondary",
+        "src": "autofun-gtr-2022"
+      },
+      "seatHeightMm": {
+        "v": 780,
+        "s": "secondary",
+        "src": "autofun-gtr-2023"
+      },
+      "frontTyre": {
+        "v": "90/80-17",
+        "s": "secondary",
+        "src": "autofun-gtr-torque"
+      },
+      "rearTyre": {
+        "v": "120/70-17",
+        "s": "secondary",
+        "src": "autofun-gtr-vs-mxking"
+      },
+      "notes": "Some articles list 149.1 cc, 16.1 PS or 16 hp. The 2022 table is used for displacement and power."
+    },
+    {
+      "id": "honda-blade-125-fi",
+      "brand": "Honda",
+      "family": "Blade",
+      "category": "Underbone / Cub",
+      "label": "125 FI (2014-)",
+      "yearFrom": {
+        "v": 2014,
+        "s": "secondary",
+        "src": "gridoto-blade125-firstride"
+      },
+      "engineId": "honda-blade125-fi",
+      "transmissionId": "honda-blade125-4speed",
+      "wheelbaseMm": {
+        "v": 1235,
+        "s": "secondary",
+        "src": "detik-blade125-testride"
+      },
+      "seatHeightMm": {
+        "v": 734,
+        "s": "secondary",
+        "src": "detik-blade125-testride"
+      },
+      "notes": "Same bore, stroke and compression ratio as the Supra X 125 FI. Kerb weight is 106 kg (double disc) and 104 kg (single disc), so it is not stored yet."
+    },
+    {
+      "id": "honda-blade-110",
+      "brand": "Honda",
+      "family": "Blade",
+      "category": "Underbone / Cub",
+      "label": "110 (2011 specification table)",
+      "engineId": "honda-blade110",
+      "wheelbaseMm": {
+        "v": 1227,
+        "s": "secondary",
+        "src": "detik-blade-2011"
+      },
+      "kerbWeightKg": {
+        "v": 104,
+        "s": "secondary",
+        "src": "detik-blade-2011"
+      },
+      "notes": "Compression ratio, power, torque and fuel system are not entered because the source read does not state them."
+    },
+    {
+      "id": "honda-revo-fi",
+      "brand": "Honda",
+      "family": "Revo",
+      "category": "Underbone / Cub",
+      "label": "FI 110 (Revo X table)",
+      "inProduction": true,
+      "engineId": "honda-revo-fi-110",
+      "transmissionId": "honda-revo-4speed",
+      "wheelbaseMm": {
+        "v": 1227,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "kerbWeightKg": {
+        "v": 97.5,
+        "s": "secondary",
+        "src": "autofun-revo-x-2022"
+      },
+      "notes": "Wheelbase and kerb weight are from the Revo X table. Revo Fit is sold with the same engine but its own weight is not stored. A 2023 paper lists the Revo Fit compression ratio as 10.2:1, which does not match the 9.3:1 in the maker tables."
+    },
+    {
+      "id": "honda-sonic-150r",
+      "brand": "Honda",
+      "family": "Sonic 150R",
+      "category": "Underbone / Cub",
+      "label": "Sonic 150R (2015-)",
+      "yearFrom": {
+        "v": 2015,
+        "s": "secondary",
+        "src": "gridoto-sonic-launch"
+      },
+      "inProduction": true,
+      "engineId": "honda-sonic150r",
+      "transmissionId": "honda-sonic150r-6speed",
+      "wheelbaseMm": {
+        "v": 1275,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "kerbWeightKg": {
+        "v": 114,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "seatHeightMm": {
+        "v": 762,
+        "s": "secondary",
+        "src": "autofun-sonic-2024"
+      },
+      "frontTyre": {
+        "v": "70/90-17",
+        "s": "secondary",
+        "src": "gridoto-sonic-firstride"
+      },
+      "rearTyre": {
+        "v": "80/90-17",
+        "s": "secondary",
+        "src": "gridoto-sonic-firstride"
+      },
+      "notes": "The 2015 launch article lists 15.8 PS, and the 2024 table lists 16.0 PS. The 2024 table is used."
+    }
+  ]
+}

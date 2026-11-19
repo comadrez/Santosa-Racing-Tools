@@ -11,7 +11,7 @@ Android app for motorcycle engine calculations, technical references and build p
 - Mean piston speed
 - Gear ratio and road speed from RPM
 
-The Motorcycles tab shows sourced specifications. It has Honda matic models so far (BeAT, Vario, Stylo, Scoopy, Genio, PCX, ADV, Forza). The full database is built in parts, see `docs/PROJECT_BLUEPRINT.md`. Workshop articles and saved builds are planned.
+The Motorcycles tab shows sourced specifications. It has Honda matic and underbone models so far (BeAT, Vario, Stylo, Scoopy, Genio, PCX, ADV, Forza, Supra, Revo, Blade, Sonic). The full database is built in parts, see `docs/PROJECT_BLUEPRINT.md`. Workshop articles and saved builds are planned.
 
 ## Project layout
 
