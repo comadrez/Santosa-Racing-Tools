@@ -14,7 +14,10 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+import id.santosa.racingtools.data.CatalogRepository
+import id.santosa.racingtools.data.SpecFormat
 
 private data class MotorcycleModelEntry(
     val name: String,
@@ -263,8 +266,13 @@ internal fun MotorcycleCatalogScreen() {
     val allModels = srtBrandModels[brand].orEmpty()
     val categories = allModels.map { it.category }.distinct().sorted()
     val categoryModels = allModels.filter { category.isBlank() || it.category == category }
-    val modelCodes = listOf("Not yet verified — exact type/model code pending source")
-    val years = listOf("Not yet verified — production-year mapping pending source")
+    val context = LocalContext.current
+    val catalog = remember { CatalogRepository.load(context) }
+    val records = if (brand.isNotBlank() && model.isNotBlank()) catalog.generationsFor(brand, model) else emptyList()
+    val selectedRecord = records.firstOrNull { it.label == modelCode }
+    val modelCodes = if (records.isNotEmpty()) records.map { it.label } else listOf("Not yet verified — exact type/model code pending source")
+    val years = selectedRecord?.let { SpecFormat.yearOptions(it, java.time.Year.now().value) }?.takeIf { it.isNotEmpty() }
+        ?: listOf("Not yet verified — production-year mapping pending source")
 
     Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
         Text("Motorcycle catalogue")
@@ -306,7 +314,7 @@ internal fun MotorcycleCatalogScreen() {
             }
         )
         SearchDropdown(
-            label = "4. Model code / exact variant",
+            label = "4. Generation / variant",
             options = modelCodes,
             selected = modelCode,
             enabled = model.isNotBlank(),
@@ -325,12 +333,18 @@ internal fun MotorcycleCatalogScreen() {
 
         if (model.isNotBlank()) {
             Text("Selected: $brand · $category · $model")
-            Text("Exact model/type code and year are not yet published for this entry. They will appear only after source verification.")
-            Text("Generation: not assigned — requires model-year documentation.")
+            if (selectedRecord != null) {
+                SpecDetail(selectedRecord, catalog)
+            } else if (records.isNotEmpty()) {
+                Text("Choose a generation / variant to see its specifications.")
+            } else {
+                Text("Exact model/type code and year are not yet published for this entry. They will appear only after source verification.")
+                Text("Generation: not assigned — requires model-year documentation.")
+            }
         } else {
             Text("Choose a manufacturer, type and model to view its catalogue record.")
         }
-        Text("Catalogue status: initial model-family index. It does not yet contain factory engine specifications.")
+        Text("Catalogue status: model-family index with " + catalog.generations.size + " sourced record(s). Models without a record have no verified specifications yet.")
     }
 }
 

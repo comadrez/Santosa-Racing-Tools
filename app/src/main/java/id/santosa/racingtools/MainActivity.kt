@@ -463,14 +463,7 @@ private fun MotorcyclesScreen() {
     ScreenColumn {
         Eyebrow("Specification library")
         SectionTitle("Motorcycles")
-        Panel {
-            Text("Database", fontWeight = FontWeight.SemiBold)
-            Text("The full Indonesian-market catalogue is not bundled yet. Models will only be published with generation-specific specifications and source/verification status.", color = TextMuted)
-        }
-        Panel {
-            Text("Planned coverage", fontWeight = FontWeight.SemiBold)
-            Text("Honda · Yamaha · Suzuki · Kawasaki · TVS · Vespa / Piaggio · KTM · BMW Motorrad · Benelli · Royal Enfield · Triumph · Harley-Davidson · CFMOTO · QJMotor and other documented Indonesian-market brands.", color = TextMuted)
-        }
+        MotorcycleCatalogScreen()
     }
 }
 

@@ -10,3 +10,5 @@
 - Put UI strings in Android resources once the localization work starts.
 - Keep user projects local and keep them when the database is updated.
 - Show recommendations as rule-based output with the evidence and the uncertainty.
+- Specification data lives in `app/src/main/assets/specs/`. The format is described in `docs/SPEC_DATA_FORMAT.md`.
+- Add each new data file to `assets/specs/index.json`. The unit tests check that the index lists every file and that every file passes `CatalogValidator`.

@@ -1,0 +1,153 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "autofun-beat-2026-04",
+      "title": "Harga Honda BeAT Naik, Termurah Rp 19 Jutaan",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/harga-honda-beat-naik-termurah-rp-19-jutaan-476329",
+      "published": "2026-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-beat-2025",
+      "title": "Dibuat Lebih Ringan, Seberapa Irit Honda BeAT 2025?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/dibuat-lebih-ringan-seberapa-irit-honda-beat-2025-81441",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-beat-2025-impresi",
+      "title": "Impresi Berkendara Honda BeAT 2025, Semakin Lincah",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/impresi-berkendara-honda-beat-2025-semakin-lincah-79836",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "oto-beat-2026",
+      "title": "Honda Beat 2026",
+      "publisher": "Oto.com",
+      "url": "https://www.oto.com/motor-baru/honda/beat-esp",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    }
+  ],
+  "engines": [
+    {
+      "id": "honda-beat-esp-109",
+      "name": "109.5 cc SOHC eSP single",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "autofun-beat-2025"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "autofun-beat-2025-impresi"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "autofun-beat-2025-impresi"
+      },
+      "boreMm": {
+        "v": 47.0,
+        "s": "secondary",
+        "src": "autofun-beat-2026-04"
+      },
+      "strokeMm": {
+        "v": 63.1,
+        "s": "secondary",
+        "src": "autofun-beat-2026-04"
+      },
+      "displacementCc": {
+        "v": 109.5,
+        "s": "secondary",
+        "src": "autofun-beat-2026-04"
+      },
+      "compressionRatio": {
+        "v": 10.0,
+        "s": "secondary",
+        "src": "autofun-beat-2026-04"
+      },
+      "powerPs": {
+        "v": 9.0,
+        "s": "secondary",
+        "src": "autofun-beat-2026-04"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "autofun-beat-2026-04"
+      },
+      "torqueNm": {
+        "v": 9.2,
+        "s": "secondary",
+        "src": "autofun-beat-2026-04"
+      },
+      "torqueRpm": {
+        "v": 6000,
+        "s": "secondary",
+        "src": "autofun-beat-2026-04"
+      }
+    }
+  ],
+  "transmissions": [
+    {
+      "id": "honda-beat-vmatic",
+      "kind": {
+        "v": "Automatic (V-Matic)",
+        "s": "secondary",
+        "src": "autofun-beat-2025-impresi"
+      }
+    }
+  ],
+  "generations": [
+    {
+      "id": "honda-beat-gen6-sporty",
+      "brand": "Honda",
+      "family": "BeAT",
+      "category": "Scooter / Matic",
+      "label": "6th generation (2024-) - Sporty body",
+      "yearFrom": {
+        "v": 2024,
+        "s": "secondary",
+        "src": "oto-beat-2026"
+      },
+      "inProduction": true,
+      "engineId": "honda-beat-esp-109",
+      "transmissionId": "honda-beat-vmatic",
+      "wheelbaseMm": {
+        "v": 1255,
+        "s": "secondary",
+        "src": "autofun-beat-2025"
+      },
+      "notes": "Wheelbase is from the 2025 model-year table. Kerb weight differs between CBS and non-CBS versions and is not stored yet."
+    },
+    {
+      "id": "honda-beat-gen6-street",
+      "brand": "Honda",
+      "family": "BeAT",
+      "category": "Scooter / Matic",
+      "label": "6th generation (2024-) - Street body",
+      "yearFrom": {
+        "v": 2024,
+        "s": "secondary",
+        "src": "oto-beat-2026"
+      },
+      "inProduction": true,
+      "engineId": "honda-beat-esp-109",
+      "transmissionId": "honda-beat-vmatic",
+      "wheelbaseMm": {
+        "v": 1251,
+        "s": "secondary",
+        "src": "autofun-beat-2025"
+      },
+      "notes": "Wheelbase is from the 2025 model-year table."
+    }
+  ]
+}

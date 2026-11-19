@@ -7,13 +7,58 @@ Done:
 - Engine calculators: displacement, bore-up and stroke-up, compression ratio, clearance volume, squish, piston speed
 - Gear ratio and road speed
 - Unit tests for the calculation code
+- Specification database, part 1: data format, loader, validator, tests and the catalogue screen, with Honda BeAT as sample data
+
+Next:
+
+- Wheelie check calculator for bore-up CVT scooters (not built yet)
+- Specification database, part 2 onward
 
 Not started:
 
-- Motorcycle database
 - Workshop articles
 - Saved builds and comparison
 - Language selection
+
+## Specification database
+
+Goal: base specifications for every brand sold in Indonesia, including old and discontinued models, so the calculators can start from accurate standard values.
+
+Format and rules are in `SPEC_DATA_FORMAT.md`. The catalogue policy is in `MOTORCYCLE_CATALOG_DATA_POLICY.md`.
+
+Size estimate (my estimate, not a sourced count):
+
+- about 1,000 to 1,400 model-generation records
+- about 300 to 450 unique engines, because many models share an engine
+
+Parts, tick each one when its data is in the repository:
+
+- [x] 1. Data format and app code
+- [ ] 2. Honda matic
+- [ ] 3. Honda underbone and cub
+- [ ] 4. Honda sport, trail and big bikes
+- [ ] 5. Yamaha matic
+- [ ] 6. Yamaha underbone and cub
+- [ ] 7. Yamaha sport and others
+- [ ] 8. Suzuki, part 1
+- [ ] 9. Suzuki, part 2
+- [ ] 10. Kawasaki, part 1
+- [ ] 11. Kawasaki, part 2
+- [ ] 12. TVS, Bajaj and older Asian brands
+- [ ] 13. European and US brands, part 1
+- [ ] 14. European and US brands, part 2
+- [ ] 15. Chinese, Malaysian and Taiwanese brands
+- [ ] 16. Electric brands
+- [ ] 17. Verification pass against manuals and official pages
+- [ ] 18. Calculator hookup: choose a model and fill in the calculators and the wheelie check
+
+Working rules:
+
+- Do the current models first, then work back to discontinued ones.
+- Models from before about 2000 often have no official online source. Mark those fields `secondary` or leave them unknown.
+- Manufacturers do not publish clearance volume. A baseline can be calculated as `Vc = Vs / (CR - 1)` and is stored as `calculated`. The published compression ratio is rounded, so the result is approximate.
+- Workshop measurements can replace a baseline value and are stored as `measured`.
+- Brands already confirmed in sources: Honda, Yamaha, Suzuki, Kawasaki, TVS, BMW Motorrad, Harley-Davidson, Italjet, Peugeot, Royal Enfield, Scomadi, Triumph, Benelli, Keeway, Benda, Aprilia, Moto Guzzi, Vespa, Piaggio, QJMotor, CFMoto, WMoto, Morbidelli, and the electric brands Alva, Polytron, United, Yadea, Gesits, Selis, Davigo, Smev, Greentech, Viar, Dibao, VinFast. KTM, Husqvarna and Kymco appear in a 2019 list. Ducati, SYM and Bajaj are not confirmed yet.
 
 ## Planned modules
 

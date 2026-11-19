@@ -11,13 +11,15 @@ Android app for motorcycle engine calculations, technical references and build p
 - Mean piston speed
 - Gear ratio and road speed from RPM
 
-The motorcycle database, workshop articles and saved builds are planned and not in the app yet.
+The Motorcycles tab shows sourced specifications. It has only a small sample so far (Honda BeAT). The full database is built in parts, see `docs/PROJECT_BLUEPRINT.md`. Workshop articles and saved builds are planned.
 
 ## Project layout
 
 - `app/src/main/java/id/santosa/racingtools/calc/` - calculation code, no UI
 - `app/src/main/java/id/santosa/racingtools/MainActivity.kt` - screens
-- `app/src/test/` - unit tests for the calculation code
+- `app/src/main/java/id/santosa/racingtools/data/` - specification data model, loader and validator
+- `app/src/main/assets/specs/` - specification data files
+- `app/src/test/` - unit tests for the calculation code and the data
 - `docs/` - formulas, database plan, development notes
 
 ## Build locally
