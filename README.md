@@ -11,7 +11,7 @@ Android app for motorcycle engine calculations, technical references and build p
 - Mean piston speed
 - Gear ratio and road speed from RPM
 
-The Motorcycles tab shows sourced specifications. It has Honda matic, underbone, sport and trail models and Yamaha matic and underbone models so far, current and older (BeAT, Vario, Stylo, Scoopy, Spacy, Genio, PCX, ADV, Forza, Supra, Revo, Blade, Sonic, CBR150R, CB150R Streetfire, CB150X, CBR250RR, CRF150L, Verza, Aerox, NMAX, Lexi, Fazzio, Grand Filano, Gear, FreeGo, MX King, Jupiter, Vega). The full database is built in parts, see `docs/PROJECT_BLUEPRINT.md`. Workshop articles and saved builds are planned.
+The Motorcycles tab shows sourced specifications. It has Honda matic, underbone, sport and trail models and Yamaha matic, underbone, sport and trail models so far, current and older (BeAT, Vario, Stylo, Scoopy, Spacy, Genio, PCX, ADV, Forza, Supra, Revo, Blade, Sonic, CBR150R, CB150R Streetfire, CB150X, CBR250RR, CRF150L, Verza, Aerox, NMAX, Lexi, Fazzio, Grand Filano, Gear, FreeGo, MX King, Jupiter, Vega, R15, MT-15, XSR155, WR155R, R25, MT-25, Vixion, Byson, Scorpio Z). The full database is built in parts, see `docs/PROJECT_BLUEPRINT.md`. Workshop articles and saved builds are planned.
 
 ## Project layout
 

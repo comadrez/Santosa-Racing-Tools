@@ -15,11 +15,12 @@ Done:
 - Specification database, part 4: Honda sport, trail and naked models (CBR150R, CB150R Streetfire, CB150X, CBR250RR, CRF150L, CB150 Verza) in `honda-sport.json`
 - Specification database, part 5: Yamaha matic (Aerox 155, NMAX 155, Lexi LX 155, Fazzio, Grand Filano, Gear 125 and Gear Ultima, FreeGo 125) in `yamaha-matic.json`
 - Specification database, part 6: Yamaha underbone and cub (MX King 150 in two bodies, Jupiter MX 150, Jupiter Z1, Vega Force) in `yamaha-underbone.json`
+- Specification database, part 7: Yamaha sport, naked and trail (R15 in two generations, MT-15, XSR155, WR155R, R25 in two versions, MT-25, Vixion 150 and Vixion R, Byson carburettor and FI, Scorpio Z) in `yamaha-sport.json`
 
 Next:
 
 - Wheelie check calculator for bore-up CVT scooters (not built yet)
-- Specification database, part 7 onward
+- Specification database, part 8 onward
 
 Not started:
 
@@ -48,7 +49,7 @@ Parts, tick each one when its data is in the repository:
 - [x] 4. Honda sport, trail and big bikes (CBR150R, CB150R Streetfire in two bodies, CB150X, CBR250RR first generation and the 2023 SP, CRF150L, CB150 Verza). CRF250 Rally, Tiger, MegaPro, GL Pro and GL Max, the older CB150R and CBR150R generations and the big bikes are not added: no usable source collected yet. The CBR250RR 2023 Standard type has no record of its own. Wheelbase, tyres, start years and gear ratios stay unknown where sources are missing or disagree.
 - [x] 5. Yamaha matic (Aerox 155, NMAX 155 in two engine versions, Lexi LX 155, Fazzio, Grand Filano 2015 and 2023, Gear 125, Gear Ultima 125 Hybrid, FreeGo 125). Mio, Mio Soul, Mio M3, Fino, Xeon, X-Ride, Lexi 125, XMAX, TMAX, the first NMAX and the older Aerox are not added: no usable source collected yet. Output and size figures stay unknown where sources are missing or give a different unit.
 - [x] 6. Yamaha underbone and cub (MX King 150 2015 and the 1,985 mm body, Jupiter MX 150 2015, Jupiter Z1, Vega Force). Jupiter MX 135, Jupiter Z, Vega ZR, Vega R, Force 1, Crypton and the older Vega are not added: no usable source collected yet. Output and size figures stay unknown where sources are missing.
-- [ ] 7. Yamaha sport and others
+- [x] 7. Yamaha sport, naked and trail (R15 2017 and R15 Connected, MT-15, XSR155, WR155R, R25 and the Euro 5+ R25, MT-25, Vixion 150 and Vixion R 155, Byson carburettor and FI, Scorpio Z 54D). R15M is not split from the R15 Connected. Older R15, earlier Vixion and Byson versions, Xabre, Scorpio 5BP, TFX150, MT-09, R6, R1 and the other big bikes are not added: no usable source collected yet. Start years, gearbox details and some tyre sizes stay unknown where sources are missing or disagree.
 - [ ] 8. Suzuki, part 1
 - [ ] 9. Suzuki, part 2
 - [ ] 10. Kawasaki, part 1

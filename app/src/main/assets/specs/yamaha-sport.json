@@ -1,0 +1,1324 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "gridoto-r15-v4-2021",
+      "title": "R15 India Tenaga dan Torsi Disunat, Gimana dengan R15 Indonesia? Simak Data Spesifikasinya",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/233023591/r15-india-tenaga-dan-torsi-disunat-gimana-dengan-r15-indonesia-simak-data-spesifikasinya",
+      "published": "2021-12",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-r15-2022",
+      "title": "Spesifikasi Menggoda Yamaha R15 2022, Bikin Honda CBR150R 2022 Merinding!",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/spesifikasi-menggoda-yamaha-r15-2022-bikin-honda-cbr150r-2022-merinding-37389",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-r15-2022-diff",
+      "title": "Daftar Perbedaan Yamaha R15 Connected 2022 dan Versi Lawas, Selisih Hampir Rp 15 Juta Lho",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/daftar-perbedaan-yamaha-r15-connected-2022-dan-versi-lawas-selisih-hampir-rp-15-juta-lho-37409",
+      "published": "2021-12",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "zigwheels-r15-2017",
+      "title": "All New Yamaha R15, Ini Spesifikasi Lengkapnya",
+      "publisher": "ZigWheels",
+      "url": "https://www.zigwheels.co.id/motovaganza/all-new-yamaha-r15-ini-spesifikasi-lengkapnya/",
+      "published": "2017-01",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-r15-2021-colour",
+      "title": "Ada Penyegaran Warna Dari Yamaha R15 2021, Tidak Ada Kenaikan Harga",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/ada-penyegaran-warna-dari-yamaha-r15-2021-tidak-ada-kenaikan-harga-22719",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-r15-launch-2021",
+      "title": "Yamaha R15M Resmi Meluncur di Indonesia, Pakai Quick Shifter!",
+      "publisher": "GridOto",
+      "url": "https://www.gridoto.com/amp/223022185/yamaha-r15m-resmi-meluncur-di-indonesia-pakai-quick-shifter?page=all",
+      "published": "2021-12",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "idntimes-yamaha-2026",
+      "title": "5 Rekomendasi Motor Laki Yamaha 2026, Ada R15 dan MT-25",
+      "publisher": "IDN Times",
+      "url": "https://www.idntimes.com/automotive/motorbike/motor-laki-yamaha-q9t01-00-s5qpm-w5xxjg",
+      "published": "2026-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-mt15-2023",
+      "title": "Kulik Yamaha MT-15 2023, Motor Gahar yang Hemat Bahan Bakar",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/kulik-yamaha-mt15-2023-motor-gahar-yang-hemat-bahan-bakar-52961",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-mt15-2019",
+      "title": "Spesifikasi Mesin Yamaha MT-15, Teknologi Paling Canggih Di Kelasnya!",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231608132/spesifikasi-mesin-yamaha-mt-15-teknologi-paling-canggih-di-kelasnya",
+      "published": "2019-01",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-mt15-2021",
+      "title": "Detail Lengkap Yamaha MT-15 2021, Naked Bike 150 Paling Agresif",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/detail-lengkap-yamaha-mt15-2021-naked-bike-150-paling-agresif-23558",
+      "published": "2021",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-xsr-2021",
+      "title": "Punya Beragam Fitur Canggih, Yamaha XSR 155 2021 Layak Disebut Motor Retro Modern Terbaik",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/Punya-Beragam-Fitur-Canggih-Yamaha-XSR-155-2021-Layak-Disebut-Motor-Retro-Modern-Terbaik-22901",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-xsr-2023",
+      "title": "Yamaha XSR 155 2023 Ganti Jubah Baru, Mau?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/yamaha-xsr-155-2023-ganti-jubah-baru-mau-60555",
+      "published": "2023",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-xsr-2019",
+      "title": "Kombinasi MT dan R Series, Begini Spesifikasi Lengkap Yamaha XSR 155",
+      "publisher": "GridOto",
+      "url": "https://www.gridoto.com/read/221940576/kombinasi-mt-dan-r-series-begini-spesifikasi-lengkap-yamaha-xsr-155",
+      "published": "2019-12",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-xsr-2025",
+      "title": "Yamaha XSR 155 Bersolek, Punya Warna Baru dan Dijual Rp 39 Jutaan",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/yamaha-xsr-155-bersolek-punya-warna-baru-dan-dijual-rp-39-jutaan-83817",
+      "published": "2025",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-wr155r-2021",
+      "title": "Spesifikasi Lengkap Yamaha WR 155 R 2021, Motor Trail 150 Paling Modern Saat Ini",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/spesifikasi-lengkap-yamaha-wr-155r-2021-motor-trail-150-paling-modern-saat-ini-23223",
+      "published": "2021",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-wr155r-2022",
+      "title": "Baju Baru Yamaha WR 155 R 2022 Kuatkan Karakter Offroad, Harga Tetap Rp 37 Jutaan",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/baju-baru-yamaha-wr-155-r-2022-kuatkan-karakter-offroad-harga-tetap-rp-37-jutaan-34854",
+      "published": "2022",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-wr155r-2024",
+      "title": "Tampilan Terkini Yamaha WR 155 R 2024 Jadi Makin Ngejreng",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/tampilan-terkini-yamaha-wr-155-r-2024-jadi-makin-ngejreng-76737",
+      "published": "2024",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-wr155r-engine",
+      "title": "Yamaha WR 155R, Mesin Sama Seperti MT-15 dan New R15, Tapi Tenaga Lebih Kecil, Apa Alasannya?",
+      "publisher": "GridOto",
+      "url": "https://www.gridoto.com/read/221962954/yamaha-wr-155r-mesin-sama-seperti-mt-15-dan-new-r15-tapi-tenaga-lebih-kecil-apa-alasannya",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-r25-2018",
+      "title": "Intip Spesifikasi Yamaha R25 Made in Indonesia",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/mobil/d-4253554/intip-spesifikasi-yamaha-r25-made-in-indonesia",
+      "published": "2018-10",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-r25-spec",
+      "title": "Ini Spesifikasi Lengkap Yamaha R25, Powernya Capai 35,5 dk",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231067308/ini-spesifikasi-lengkap-yamaha-r25-powernya-capai-355-dk",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "yamaha-global-r25-2014",
+      "title": "YZF-R25 manufactured and sold in Indonesia (news release)",
+      "publisher": "Yamaha Motor Co., Ltd.",
+      "url": "https://global.yamaha-motor.com/jp/news/2014/0520/yzf-r25.html",
+      "published": "2014-05",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "liputan6-r25-2025",
+      "title": "Harga R25 Terbaru 2025, Spesifikasi Unggul dan Harga OTR Resmi Yamaha",
+      "publisher": "Liputan6",
+      "url": "https://www.liputan6.com/hot/read/6026239/harga-r25-terbaru-2025-spesifikasi-unggul-dan-harga-otr-resmi-yamaha",
+      "published": "2025",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-mt25-2015",
+      "title": "Ini Spesifikasi Yamaha MT-25",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/motor/d-2935241/ini-spesifikasi-yamaha-mt-25",
+      "published": "2015",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-mt25-2015",
+      "title": "Ini Spesifikasi Lengkap Yamaha MT-25, Sebelas Duabelas Sama YZF-R25",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231041294/ini-spesifikasi-lengkap-yamaha-mt-25-sebelas-duabelas-sama-yzf-r25",
+      "published": "2015",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "motorcycle-com-mt25-2015",
+      "title": "Yamaha MT-25 Revealed in Indonesia",
+      "publisher": "Motorcycle.com",
+      "url": "https://www.motorcycle.com/2015/06/06/manufacturers/yamaha/yamaha-mt-25-revealed-in-indonesia/",
+      "published": "2015-06",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-mt25-2026",
+      "title": "Harga Terbaru Yamaha MT25 Tahun 2026: Tipe Standarnya Segini",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/234368566/harga-terbaru-yamaha-mt25-tahun-2026-tipe-standarnya-segini",
+      "published": "2026-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "motorplus-vixion-2017",
+      "title": "Adu Spesifikasi Yamaha All New V-ixion dan All New V-ixion R",
+      "publisher": "Motorplus",
+      "url": "https://motorplus-online.com/read/251214546/adu-spesifikasi-yamaha-all-new-v-ixion-dan-all-new-v-ixion-r?page=all",
+      "published": "2017-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-vixion-5speed",
+      "title": "Begini Performa dan Data Akselerasi Yamaha All New V-Ixion Tanpa 'R', Simak Kelebihan dan Kekurangannya",
+      "publisher": "GridOto",
+      "url": "https://www.gridoto.com/read/01200972/begini-performa-dan-data-akselerasi-yamaha-all-new-v-ixion-tanpa-r-simak-kelebihan-dan-kekurangannya",
+      "published": "2017-10",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-vixion-r-2017",
+      "title": "Yamaha Bocorkan Harga Vixion R, Rp 29,5 Juta",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/motor/d-3509475/yamaha-bocorkan-harga-vixion-r-rp-29-5-juta",
+      "published": "2017-05",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-vixion-vs-vixion-r",
+      "title": "Beda Harga Hampir Rp 4 Juta, Ingat Lagi 7 Perbedaan Yamaha Vixion 150 dan Vixion R 155",
+      "publisher": "GridOto",
+      "url": "https://www.gridoto.com/read/224244071/beda-harga-hampir-rp-4-juta-ingat-lagi-7-perbedaan-yamaha-vixion-150-dan-vixion-r-155?page=all",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-byson-2010",
+      "title": "Ini Dia Spek Lengkap Yamaha Byson",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/berita/d-1422983/ini-dia-spek-lengkap-yamaha-byson",
+      "published": "2010-08",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-byson-fi-2015",
+      "title": "Yamaha: All New Byson Pas untuk 'Petarung Jalanan'",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/motor/d-2946607/yamaha-all-new-byson-pas-untuk-petarung-jalanan",
+      "published": "2015-06",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-byson-fi-test",
+      "title": "Malam Pertama Bersama 'Si Kebo' Yamaha Byson",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/ototest-motor/d-2947266/malam-pertama-bersama-si-kebo-yamaha-byson",
+      "published": "2015-06",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-byson-fi",
+      "title": "Sudah Terlupakan, Padahal Yamaha Byson Punya 5 Hal Menarik buat Dibeli",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/sudah-terlupakan-padahal-yamaha-byson-punya-5-hal-menarik-buat-dibeli-29156",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "bikesrepublic-scorpio-z",
+      "title": "2011 Yamaha Scorpio Z 225 in Indonesia",
+      "publisher": "Bikesrepublic",
+      "url": "https://www.bikesrepublic.com/bm/2011-yamaha-scorpio-z-225-in-indonesia",
+      "published": "2011",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-scorpio-5bp-54d",
+      "title": "Menguak Perbedaan 5BP dan 54D",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231043586/menguak-perbedaan-5bp-dan-54d",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    }
+  ],
+  "engines": [
+    {
+      "id": "yamaha-r15-155-vva",
+      "name": "155.09 cc SOHC 4-valve VVA injection single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "zigwheels-r15-2017"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "boreMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "strokeMm": {
+        "v": 58.7,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "displacementCc": {
+        "v": 155.09,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "compressionRatio": {
+        "v": 11.6,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "powerPs": {
+        "v": 19.3,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "powerRpm": {
+        "v": 10000,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "torqueNm": {
+        "v": 14.7,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "torqueRpm": {
+        "v": 8500,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      }
+    },
+    {
+      "id": "yamaha-wr155r",
+      "name": "155 cc SOHC 4-valve VVA injection single, liquid-cooled (WR155R tune)",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "gridoto-wr155r-engine"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "autofun-wr155r-2021"
+      },
+      "boreMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "strokeMm": {
+        "v": 58.7,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "displacementCc": {
+        "v": 155.0,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "compressionRatio": {
+        "v": 11.6,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "powerPs": {
+        "v": 16.7,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "powerRpm": {
+        "v": 10000,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "torqueNm": {
+        "v": 14.3,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      }
+    },
+    {
+      "id": "yamaha-r25",
+      "name": "249 cc DOHC 8-valve injection parallel twin, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "detik-mt25-2015"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "gridoto-r25-spec"
+      },
+      "cylinders": {
+        "v": 2,
+        "s": "secondary",
+        "src": "detik-mt25-2015"
+      },
+      "boreMm": {
+        "v": 60.0,
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      },
+      "strokeMm": {
+        "v": 44.1,
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      },
+      "displacementCc": {
+        "v": 249.0,
+        "s": "secondary",
+        "src": "motorcycle-com-mt25-2015"
+      },
+      "compressionRatio": {
+        "v": 11.6,
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      },
+      "powerPs": {
+        "v": 36.0,
+        "s": "secondary",
+        "src": "gridoto-r25-spec"
+      },
+      "powerRpm": {
+        "v": 12000,
+        "s": "secondary",
+        "src": "gridoto-r25-spec"
+      },
+      "torqueNm": {
+        "v": 22.6,
+        "s": "secondary",
+        "src": "gridoto-r25-spec"
+      },
+      "torqueRpm": {
+        "v": 10000,
+        "s": "secondary",
+        "src": "gridoto-r25-spec"
+      }
+    },
+    {
+      "id": "yamaha-r25-euro5",
+      "name": "249.55 cc DOHC 8-valve parallel twin, liquid-cooled (Euro 5+)",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "cylinders": {
+        "v": 2,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "boreMm": {
+        "v": 60.0,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "strokeMm": {
+        "v": 44.1,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "displacementCc": {
+        "v": 249.55,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "compressionRatio": {
+        "v": 11.6,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "powerPs": {
+        "v": 35.9,
+        "s": "calculated"
+      },
+      "powerRpm": {
+        "v": 12000,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "torqueNm": {
+        "v": 22.5,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "torqueRpm": {
+        "v": 10000,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      }
+    },
+    {
+      "id": "yamaha-vixion-150",
+      "name": "149.8 cc SOHC 4-valve injection single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "boreMm": {
+        "v": 57.0,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "strokeMm": {
+        "v": 58.7,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "displacementCc": {
+        "v": 149.8,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "compressionRatio": {
+        "v": 10.4,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "powerPs": {
+        "v": 16.59,
+        "s": "calculated"
+      },
+      "powerRpm": {
+        "v": 8500,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "torqueNm": {
+        "v": 14.5,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "torqueRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      }
+    },
+    {
+      "id": "yamaha-byson-carb",
+      "name": "153 cc SOHC 2-valve single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "boreMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "displacementCc": {
+        "v": 153.0,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "compressionRatio": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "powerPs": {
+        "v": 10.1,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "torqueNm": {
+        "v": 10.5,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "torqueRpm": {
+        "v": 5500,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      }
+    },
+    {
+      "id": "yamaha-byson-fi",
+      "name": "149 cc SOHC injection single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "detik-byson-fi-2015"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "detik-byson-fi-2015"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "detik-byson-fi-2015"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "detik-byson-fi-2015"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "detik-byson-fi-2015"
+      },
+      "displacementCc": {
+        "v": 149.0,
+        "s": "secondary",
+        "src": "detik-byson-fi-test"
+      },
+      "compressionRatio": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "detik-byson-fi-2015"
+      },
+      "powerPs": {
+        "v": 13.0,
+        "s": "secondary",
+        "src": "autofun-byson-fi"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-byson-fi"
+      },
+      "torqueNm": {
+        "v": 12.98,
+        "s": "secondary",
+        "src": "detik-byson-fi-test"
+      },
+      "torqueRpm": {
+        "v": 6000,
+        "s": "secondary",
+        "src": "autofun-byson-fi"
+      }
+    },
+    {
+      "id": "yamaha-scorpio-z",
+      "name": "223 cc SOHC 2-valve single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "boreMm": {
+        "v": 70.0,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "strokeMm": {
+        "v": 58.0,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "displacementCc": {
+        "v": 223.0,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "compressionRatio": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "powerPs": {
+        "v": 18.2,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "torqueNm": {
+        "v": 17.5,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      }
+    }
+  ],
+  "transmissions": [
+    {
+      "id": "yamaha-155-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "gridoto-r15-v4-2021"
+      }
+    },
+    {
+      "id": "yamaha-mt-15-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "autofun-mt15-2021"
+      }
+    },
+    {
+      "id": "yamaha-xsr-155-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "autofun-xsr-2021"
+      }
+    },
+    {
+      "id": "yamaha-vixion-r-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "detik-vixion-r-2017"
+      }
+    },
+    {
+      "id": "yamaha-wr155r-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      }
+    },
+    {
+      "id": "yamaha-r25-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      }
+    },
+    {
+      "id": "yamaha-vixion-5speed",
+      "kind": {
+        "v": "Manual, 5-speed",
+        "s": "secondary",
+        "src": "gridoto-vixion-5speed"
+      }
+    },
+    {
+      "id": "yamaha-byson-fi-5speed",
+      "kind": {
+        "v": "Manual, 5-speed",
+        "s": "secondary",
+        "src": "autofun-byson-fi"
+      }
+    }
+  ],
+  "generations": [
+    {
+      "brand": "Yamaha",
+      "category": "Sport",
+      "id": "yamaha-r15-2017",
+      "family": "R15",
+      "label": "R15 (2017)",
+      "yearFrom": {
+        "v": 2017,
+        "s": "secondary",
+        "src": "zigwheels-r15-2017"
+      },
+      "inProduction": false,
+      "engineId": "yamaha-r15-155-vva",
+      "transmissionId": "yamaha-155-6speed",
+      "wheelbaseMm": {
+        "v": 1325,
+        "s": "secondary",
+        "src": "zigwheels-r15-2017"
+      },
+      "kerbWeightKg": {
+        "v": 137,
+        "s": "secondary",
+        "src": "zigwheels-r15-2017"
+      },
+      "seatHeightMm": {
+        "v": 815,
+        "s": "secondary",
+        "src": "zigwheels-r15-2017"
+      },
+      "frontTyre": {
+        "v": "100/80-17",
+        "s": "secondary",
+        "src": "autofun-r15-2021-colour"
+      },
+      "rearTyre": {
+        "v": "140/70-17",
+        "s": "secondary",
+        "src": "autofun-r15-2021-colour"
+      },
+      "notes": "Replaced by the R15 Connected in December 2021. Power is listed between 19.0 and 19.4 PS depending on the source. The end year is not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Sport",
+      "id": "yamaha-r15-connected",
+      "family": "R15",
+      "label": "R15 Connected (2021)",
+      "yearFrom": {
+        "v": 2021,
+        "s": "secondary",
+        "src": "gridoto-r15-launch-2021"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-r15-155-vva",
+      "transmissionId": "yamaha-155-6speed",
+      "wheelbaseMm": {
+        "v": 1325,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "kerbWeightKg": {
+        "v": 137,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "seatHeightMm": {
+        "v": 815,
+        "s": "secondary",
+        "src": "autofun-r15-2022"
+      },
+      "frontTyre": {
+        "v": "100/80-17",
+        "s": "secondary",
+        "src": "autofun-r15-2022-diff"
+      },
+      "rearTyre": {
+        "v": "140/70-17",
+        "s": "secondary",
+        "src": "autofun-r15-2022-diff"
+      },
+      "notes": "The R15M Connected-ABS weighs 140 kg and has no record of its own. A 2026 listing gives 19.04 HP and 14.7 Nm. The Indonesian model is not the same as the Indian R15 V4, which is rated lower."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Naked",
+      "id": "yamaha-mt-15",
+      "family": "MT-15",
+      "label": "MT-15",
+      "yearFrom": {
+        "v": 2019,
+        "s": "secondary",
+        "src": "gridoto-mt15-2019"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-r15-155-vva",
+      "transmissionId": "yamaha-mt-15-6speed",
+      "wheelbaseMm": {
+        "v": 1335,
+        "s": "secondary",
+        "src": "autofun-mt15-2023"
+      },
+      "kerbWeightKg": {
+        "v": 133,
+        "s": "secondary",
+        "src": "autofun-mt15-2023"
+      },
+      "seatHeightMm": {
+        "v": 810,
+        "s": "secondary",
+        "src": "autofun-mt15-2023"
+      },
+      "frontTyre": {
+        "v": "110/70-17",
+        "s": "secondary",
+        "src": "autofun-mt15-2023"
+      },
+      "rearTyre": {
+        "v": "140/70-17",
+        "s": "secondary",
+        "src": "autofun-mt15-2023"
+      },
+      "notes": "Uses the same engine as the R15. One listing gives a 1,330 mm wheelbase. Power is listed between 19.0 and 19.4 PS depending on the source."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Naked",
+      "id": "yamaha-xsr-155",
+      "family": "XSR155",
+      "label": "XSR 155",
+      "yearFrom": {
+        "v": 2019,
+        "s": "secondary",
+        "src": "gridoto-xsr-2019"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-r15-155-vva",
+      "transmissionId": "yamaha-xsr-155-6speed",
+      "wheelbaseMm": {
+        "v": 1330,
+        "s": "secondary",
+        "src": "autofun-xsr-2023"
+      },
+      "kerbWeightKg": {
+        "v": 134,
+        "s": "secondary",
+        "src": "autofun-xsr-2021"
+      },
+      "seatHeightMm": {
+        "v": 810,
+        "s": "secondary",
+        "src": "autofun-xsr-2021"
+      },
+      "frontTyre": {
+        "v": "110/70-17",
+        "s": "secondary",
+        "src": "autofun-xsr-2021"
+      },
+      "rearTyre": {
+        "v": "140/70-17",
+        "s": "secondary",
+        "src": "autofun-xsr-2021"
+      },
+      "notes": "Engine matches the R15 in capacity, compression and power. The 2025 colour update lists no technical changes."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Trail / Enduro",
+      "id": "yamaha-wr-155r",
+      "family": "WR155R",
+      "label": "WR 155 R",
+      "yearFrom": {
+        "v": 2019,
+        "s": "secondary",
+        "src": "autofun-wr155r-2021"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-wr155r",
+      "transmissionId": "yamaha-wr155r-6speed",
+      "wheelbaseMm": {
+        "v": 1430,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "kerbWeightKg": {
+        "v": 134,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "seatHeightMm": {
+        "v": 880,
+        "s": "secondary",
+        "src": "autofun-wr155r-2022"
+      },
+      "frontTyre": {
+        "v": "2.75-21",
+        "s": "secondary",
+        "src": "autofun-wr155r-2021"
+      },
+      "rearTyre": {
+        "v": "4.10-18",
+        "s": "secondary",
+        "src": "autofun-wr155r-2021"
+      },
+      "notes": "The 2024 update lists no technical changes. Another source gives 16.4 hp for the output."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Sport",
+      "id": "yamaha-r25-2014",
+      "family": "R25",
+      "label": "R25 (2014 to Euro 5+ update)",
+      "yearFrom": {
+        "v": 2014,
+        "s": "secondary",
+        "src": "yamaha-global-r25-2014"
+      },
+      "inProduction": false,
+      "engineId": "yamaha-r25",
+      "transmissionId": "yamaha-r25-6speed",
+      "wheelbaseMm": {
+        "v": 1380,
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      },
+      "kerbWeightKg": {
+        "v": 166,
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      },
+      "seatHeightMm": {
+        "v": 780,
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      },
+      "frontTyre": {
+        "v": "110/70-17",
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      },
+      "rearTyre": {
+        "v": "140/70-17",
+        "s": "secondary",
+        "src": "detik-r25-2018"
+      },
+      "notes": "Replaced by the Euro 5+ model. Torque is listed between 22.1 and 23.6 Nm depending on the source. The end year is not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Sport",
+      "id": "yamaha-r25-euro5",
+      "family": "R25",
+      "label": "R25 Euro 5+",
+      "inProduction": true,
+      "engineId": "yamaha-r25-euro5",
+      "wheelbaseMm": {
+        "v": 1380,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "kerbWeightKg": {
+        "v": 166,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "seatHeightMm": {
+        "v": 780,
+        "s": "secondary",
+        "src": "liputan6-r25-2025"
+      },
+      "notes": "The source gives the output as 26.4 kW, so the PS value is converted. The start year, tyres and gearbox are not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Naked",
+      "id": "yamaha-mt-25",
+      "family": "MT-25",
+      "label": "MT-25",
+      "yearFrom": {
+        "v": 2015,
+        "s": "secondary",
+        "src": "motorcycle-com-mt25-2015"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-r25",
+      "wheelbaseMm": {
+        "v": 1380,
+        "s": "secondary",
+        "src": "detik-mt25-2015"
+      },
+      "kerbWeightKg": {
+        "v": 165,
+        "s": "secondary",
+        "src": "detik-mt25-2015"
+      },
+      "seatHeightMm": {
+        "v": 780,
+        "s": "secondary",
+        "src": "detik-mt25-2015"
+      },
+      "frontTyre": {
+        "v": "110/70-17",
+        "s": "secondary",
+        "src": "gridoto-mt25-2026"
+      },
+      "rearTyre": {
+        "v": "140/70-17",
+        "s": "secondary",
+        "src": "gridoto-mt25-2026"
+      },
+      "notes": "Dimensions and weight are the launch figures. The engine matches the R25 in the launch article. A 2026 listing gives 26.5 kW and 23.6 Nm, which differs from the engine record."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Naked",
+      "id": "yamaha-vixion-150",
+      "family": "Vixion",
+      "label": "Vixion 150 (2017)",
+      "yearFrom": {
+        "v": 2017,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-vixion-150",
+      "transmissionId": "yamaha-vixion-5speed",
+      "wheelbaseMm": {
+        "v": 1295,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "kerbWeightKg": {
+        "v": 132,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "seatHeightMm": {
+        "v": 795,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "frontTyre": {
+        "v": "90/80-17",
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "rearTyre": {
+        "v": "120/70-17",
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "notes": "The source gives the output as 12.2 kW, so the PS value is converted. The earlier New Vixion and New Vixion Advance are not added."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Naked",
+      "id": "yamaha-vixion-r",
+      "family": "Vixion",
+      "label": "Vixion R 155 (2017)",
+      "yearFrom": {
+        "v": 2017,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "inProduction": true,
+      "engineId": "yamaha-r15-155-vva",
+      "transmissionId": "yamaha-vixion-r-6speed",
+      "wheelbaseMm": {
+        "v": 1320,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "kerbWeightKg": {
+        "v": 131,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "seatHeightMm": {
+        "v": 795,
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "frontTyre": {
+        "v": "90/80-17",
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "rearTyre": {
+        "v": "130/70-17",
+        "s": "secondary",
+        "src": "motorplus-vixion-2017"
+      },
+      "notes": "The launch article says it uses the R15 engine. One later source gives 19.04 PS, the engine record keeps the R15 figure."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Naked",
+      "id": "yamaha-byson-2010",
+      "family": "Byson",
+      "label": "Byson (carburettor)",
+      "yearFrom": {
+        "v": 2010,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "inProduction": false,
+      "engineId": "yamaha-byson-carb",
+      "wheelbaseMm": {
+        "v": 1334,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "kerbWeightKg": {
+        "v": 135,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "seatHeightMm": {
+        "v": 790,
+        "s": "secondary",
+        "src": "detik-byson-2010"
+      },
+      "notes": "Another source gives 137 kg. Fuel system, gearbox and tyres are not stored. The end year is not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Naked",
+      "id": "yamaha-byson-fi",
+      "family": "Byson",
+      "label": "Byson FI (2015)",
+      "yearFrom": {
+        "v": 2015,
+        "s": "secondary",
+        "src": "autofun-byson-fi"
+      },
+      "inProduction": false,
+      "engineId": "yamaha-byson-fi",
+      "transmissionId": "yamaha-byson-fi-5speed",
+      "wheelbaseMm": {
+        "v": 1340,
+        "s": "secondary",
+        "src": "detik-byson-fi-test"
+      },
+      "kerbWeightKg": {
+        "v": 133,
+        "s": "secondary",
+        "src": "autofun-byson-fi"
+      },
+      "seatHeightMm": {
+        "v": 790,
+        "s": "secondary",
+        "src": "detik-byson-fi-test"
+      },
+      "notes": "One 2026 listing still shows a price, so the sale status is not confirmed. A table in one article gives liquid cooling and 58 x 58.7 mm, which disagrees with the air-cooled 57.3 x 57.9 mm in the launch articles used here."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Naked",
+      "id": "yamaha-scorpio-z",
+      "family": "Scorpio Z",
+      "label": "Scorpio Z (54D body)",
+      "inProduction": false,
+      "engineId": "yamaha-scorpio-z",
+      "wheelbaseMm": {
+        "v": 1295,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "kerbWeightKg": {
+        "v": 141,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "seatHeightMm": {
+        "v": 770,
+        "s": "secondary",
+        "src": "bikesrepublic-scorpio-z"
+      },
+      "notes": "The earlier 5BP body is not added. The start year is not stored, sources point to 2010 or 2011. The end year is not stored."
+    }
+  ]
+}
