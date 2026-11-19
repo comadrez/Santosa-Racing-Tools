@@ -24,7 +24,7 @@ class HondaUnderboneDataTest {
     @Test
     fun everyUnderboneFamilyHasRecords() {
         val catalog = load()
-        val expected = mapOf("Supra" to 3, "Revo" to 1, "Blade" to 2, "Sonic 150R" to 1)
+        val expected = mapOf("Supra" to 7, "Revo" to 3, "Kirana" to 1, "Blade" to 2, "Sonic 150R" to 1)
         expected.forEach { (family, count) ->
             assertEquals(family, count, catalog.generationsFor("Honda", family).size)
         }

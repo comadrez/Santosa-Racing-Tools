@@ -1,0 +1,485 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "carmudi-supra-fit-used",
+      "title": "Harga Motor Supra Fit Bekas Mulai Rp3 Jutaan, Ini Detailnya",
+      "publisher": "Carmudi",
+      "url": "https://www.carmudi.co.id/journal/harga-motor-supra-fit-bekas-mulai-rp3-jutaan-ini-detailnya/",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-supra-fit-wave100",
+      "title": "Wow! Honda Supra Fit Baru Dijual Rp19 Jutaan, Apa Istimewanya?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/wow-honda-supra-fit-baru-dijual-rp19-jutaan-apa-istimewanya-40329",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "inews-supra-history",
+      "title": "Perjalanan Motor Bebek Irit Legendaris Honda Supra",
+      "publisher": "iNews",
+      "url": "https://www.inews.id/otomotif/motor/perjalanan-motor-bebek-irit-legendaris-honda-supra",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-nsf100-supra-x",
+      "title": "Motor Balap Honda NSF100, Versi Mini Honda RC211V Bermesin Mirip Supra X",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/motor-balap-honda-nsf100-versi-mini-honda-rc211v-bermesin-mirip-supra-x-58352",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "uir-supra-x125r",
+      "title": "Bab III, spesifikasi Honda Supra X 125 R",
+      "publisher": "Universitas Islam Riau (repository)",
+      "url": "https://repository.uir.ac.id/4924/6/11.%20BAB%20III.pdf",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "carmudi-kirana125",
+      "title": "Honda Kirana 125: Spesifikasi, Sejarah, dan Harga Bekas Terbaru",
+      "publisher": "Carmudi",
+      "url": "https://www.carmudi.co.id/journal/honda-kirana-125-spesifikasi-sejarah-dan-harga-bekas-terbaru/",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-kirana-rare",
+      "title": "Honda Kirana, Bebek 125 Pahe Bertampang Mirip Astrea Grand Nan Langka",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/honda-kirana-bebek-125-pahe-bertampang-mirip-astrea-grand-nan-langka-48395",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "olx-revo-absolute",
+      "title": "Spesifikasi Mesin Honda Revo Absolute",
+      "publisher": "OLX News",
+      "url": "https://www.olx.co.id/news/?p=100603",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-absolute-revo-2009",
+      "title": "Profil Mesin Honda Absolute Revo",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/berita/d-1076694/profil-mesin-honda-absolute-revo",
+      "published": "2009-01",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    }
+  ],
+  "engines": [
+    {
+      "id": "honda-supra-c100-97",
+      "name": "97.1 cc SOHC single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "inews-supra-history"
+      },
+      "displacementCc": {
+        "v": 97.1,
+        "s": "secondary",
+        "src": "inews-supra-history"
+      }
+    },
+    {
+      "id": "honda-supra-x100-97",
+      "name": "97.1 cc single (50 x 49.5 mm)",
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "autofun-nsf100-supra-x"
+      },
+      "strokeMm": {
+        "v": 49.5,
+        "s": "secondary",
+        "src": "autofun-nsf100-supra-x"
+      },
+      "displacementCc": {
+        "v": 97.1,
+        "s": "secondary",
+        "src": "autofun-nsf100-supra-x"
+      }
+    },
+    {
+      "id": "honda-supra-fit-100",
+      "name": "97.1 cc SOHC single, air-cooled, carburettor (50.0 x 49.5 mm)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "fuelSystem": {
+        "v": "Carburettor (Keihin PB17)",
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "strokeMm": {
+        "v": 49.5,
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "displacementCc": {
+        "v": 97.1,
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "compressionRatio": {
+        "v": 9.0,
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "powerPs": {
+        "v": 7.3,
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "torqueNm": {
+        "v": 7.26,
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      },
+      "torqueRpm": {
+        "v": 6000,
+        "s": "secondary",
+        "src": "carmudi-supra-fit-used"
+      }
+    },
+    {
+      "id": "honda-supra-x125-carb",
+      "name": "124.8 cc SOHC single, carburettor (52.4 x 57.9 mm)",
+      "fuelSystem": {
+        "v": "Carburettor",
+        "s": "secondary",
+        "src": "uir-supra-x125r"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "uir-supra-x125r"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "uir-supra-x125r"
+      },
+      "displacementCc": {
+        "v": 124.8,
+        "s": "secondary",
+        "src": "uir-supra-x125r"
+      },
+      "compressionRatio": {
+        "v": 9.0,
+        "s": "secondary",
+        "src": "uir-supra-x125r"
+      },
+      "powerPs": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "uir-supra-x125r"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "uir-supra-x125r"
+      }
+    },
+    {
+      "id": "honda-kirana125",
+      "name": "124.9 cc SOHC single, air-cooled, carburettor (52.4 x 57.9 mm)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "fuelSystem": {
+        "v": "Carburettor",
+        "s": "secondary",
+        "src": "autofun-kirana-rare"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 52.4,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "displacementCc": {
+        "v": 124.9,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "compressionRatio": {
+        "v": 9.0,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "powerPs": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "torqueNm": {
+        "v": 10.78,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "torqueRpm": {
+        "v": 4000,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      }
+    },
+    {
+      "id": "honda-absolute-revo-110",
+      "name": "109.1 cc SOHC single, air-cooled, carburettor (50 x 55.6 mm)",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "fuelSystem": {
+        "v": "Carburettor",
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "calculated"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "strokeMm": {
+        "v": 55.6,
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "displacementCc": {
+        "v": 109.1,
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "compressionRatio": {
+        "v": 9.0,
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "powerPs": {
+        "v": 8.46,
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "powerRpm": {
+        "v": 7500,
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "torqueNm": {
+        "v": 8.4,
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      },
+      "torqueRpm": {
+        "v": 5500,
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      }
+    }
+  ],
+  "transmissions": [
+    {
+      "id": "honda-supra-x125-carb-4speed",
+      "kind": {
+        "v": "Manual, 4-speed",
+        "s": "secondary",
+        "src": "uir-supra-x125r"
+      }
+    },
+    {
+      "id": "honda-kirana125-4speed",
+      "kind": {
+        "v": "Manual, 4-speed",
+        "s": "secondary",
+        "src": "autofun-kirana-rare"
+      }
+    },
+    {
+      "id": "honda-absolute-revo-4speed",
+      "kind": {
+        "v": "Manual, 4-speed (rotary)",
+        "s": "secondary",
+        "src": "olx-revo-absolute"
+      }
+    }
+  ],
+  "generations": [
+    {
+      "id": "honda-astrea-supra-gen1",
+      "brand": "Honda",
+      "family": "Supra",
+      "category": "Underbone / Cub",
+      "label": "Astrea Supra, first generation (1997-2001)",
+      "yearFrom": {
+        "v": 1997,
+        "s": "secondary",
+        "src": "inews-supra-history"
+      },
+      "yearTo": {
+        "v": 2001,
+        "s": "secondary",
+        "src": "inews-supra-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-supra-c100-97",
+      "notes": "Drum brakes front and rear. Bore, stroke and output are not stored."
+    },
+    {
+      "id": "honda-supra-x-100",
+      "brand": "Honda",
+      "family": "Supra",
+      "category": "Underbone / Cub",
+      "label": "X 100",
+      "inProduction": false,
+      "engineId": "honda-supra-x100-97",
+      "notes": "Years, compression ratio and output are not stored: the sources give no figures for this version."
+    },
+    {
+      "id": "honda-supra-fit-100",
+      "brand": "Honda",
+      "family": "Supra",
+      "category": "Underbone / Cub",
+      "label": "Fit 100 (2003-2011)",
+      "yearFrom": {
+        "v": 2003,
+        "s": "secondary",
+        "src": "autofun-supra-fit-wave100"
+      },
+      "yearTo": {
+        "v": 2011,
+        "s": "secondary",
+        "src": "inews-supra-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-supra-fit-100",
+      "notes": "Compression ratio is 9.0:1 in this source and 8.8:1 in a university test paper. Power is 7.3 PS here and 7.2 PS in another source. Gear ratio changed from 14:40 (2003-2005) to 14:36 (2005-2009)."
+    },
+    {
+      "id": "honda-supra-x-125-carb",
+      "brand": "Honda",
+      "family": "Supra",
+      "category": "Underbone / Cub",
+      "label": "X 125 carburettor (2005-)",
+      "yearFrom": {
+        "v": 2005,
+        "s": "secondary",
+        "src": "inews-supra-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-supra-x125-carb",
+      "transmissionId": "honda-supra-x125-carb-4speed",
+      "notes": "Figures are for the X 125 R. Torque is 9.0 Nm at 6,800 rpm in a thesis and 1.03 kgf.m at 4,000 rpm in a blog table, so it is not stored."
+    },
+    {
+      "id": "honda-revo-100",
+      "brand": "Honda",
+      "family": "Revo",
+      "category": "Underbone / Cub",
+      "label": "100 (2007-2009)",
+      "yearFrom": {
+        "v": 2007,
+        "s": "secondary",
+        "src": "inews-supra-history"
+      },
+      "inProduction": false,
+      "engineId": "honda-supra-fit-100",
+      "notes": "The source says the first Revo used the Supra Fit 100 cc engine, so it links to the same engine record. The end year is not stored because sources differ."
+    },
+    {
+      "id": "honda-revo-absolute-110",
+      "brand": "Honda",
+      "family": "Revo",
+      "category": "Underbone / Cub",
+      "label": "Absolute Revo 110 carburettor (2009-)",
+      "yearFrom": {
+        "v": 2009,
+        "s": "secondary",
+        "src": "detik-absolute-revo-2009"
+      },
+      "inProduction": false,
+      "engineId": "honda-absolute-revo-110",
+      "transmissionId": "honda-absolute-revo-4speed",
+      "notes": "Launched in January 2009. The end year is not stored."
+    },
+    {
+      "id": "honda-kirana-125",
+      "brand": "Honda",
+      "family": "Kirana",
+      "category": "Underbone / Cub",
+      "label": "125 (2001-)",
+      "yearFrom": {
+        "v": 2001,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "inProduction": false,
+      "engineId": "honda-kirana125",
+      "transmissionId": "honda-kirana125-4speed",
+      "wheelbaseMm": {
+        "v": 1199,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "kerbWeightKg": {
+        "v": 100.4,
+        "s": "secondary",
+        "src": "carmudi-kirana125"
+      },
+      "notes": "Power is 9.3 PS in one source and 8.9 PS in another."
+    }
+  ]
+}
