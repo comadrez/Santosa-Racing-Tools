@@ -1,0 +1,904 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "zigwheels-cbr150r",
+      "title": "Honda CBR150R",
+      "publisher": "Zigwheels",
+      "url": "https://www.zigwheels.co.id/motor-baru/honda/cbr150r/",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "zigwheels-cbr150r-spec",
+      "title": "Honda CBR150R 2025 Specs & Features",
+      "publisher": "Zigwheels",
+      "url": "https://www.zigwheels.co.id/en/motor-baru/honda/cbr150r/spesifikasi",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "oto-cbr150r",
+      "title": "Honda CBR150R Specifications & Features",
+      "publisher": "Oto.com",
+      "url": "https://www.oto.com/en/motor-baru/honda/cbr150r/spesifikasi?amp=1",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-streetfire-vs-cbr",
+      "title": "Serupa Tapi tak Sama, Ini Bedanya Mesin Honda CB150R Streetfire dan Honda CBR150R",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/serupa-tapi-tak-sama-ini-bedanya-mesin-honda-cb150r-streetfire-dan-honda-cbr150r-28128",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-cb150r-2026",
+      "title": "Honda CB150R Streetfire Tahun 2026: Sekarang Dijual Segini",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/234373807/honda-cb150r-streetfire-tahun-2026-sekarang-dijual-segini",
+      "published": "2026-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-streetfire-2021",
+      "title": "All New Honda CB150R Streetfire 2021 Resmi Dikenalkan, Harga Tembus Rp 30 Juta",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/All-New-Honda-CB150R-Streetfire-2021-Resmi-Dikenalkan-Harga-Tembus-Rp-30-Juta-27189",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-streetfire-prev",
+      "title": "Bukan cuma Agresif, Ini Alasan Honda CB150R Streetfire tetap Diminati",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/bukan-cuma-agresif-ini-alasan-honda-cb150r-streetfire-tetap-diminati-27022",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-cb150x",
+      "title": "Honda CB150X",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/motor/honda/cb150x",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-cb150x-2022",
+      "title": "Selain Harga, Ini Daftar Perbedaan Honda CB150X 2022 dan Honda CB150R Streetfire 2022",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/selain-harga-ini-daftar-perbedaan-honda-cb150x-2022-dan-honda-cb150r-streetfire-2022-37838",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "carmudi-cb150x",
+      "title": "Harga dan Spesifikasi Honda CB150X Terbaru, Siap Touring Jauh!",
+      "publisher": "Carmudi",
+      "url": "https://www.carmudi.co.id/journal/harga-dan-spesifikasi-honda-cb150x-terbaru-siap-touring-jauh/",
+      "published": "2025-05",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "detik-cbr250rr-2016",
+      "title": "Ini Spesifikasi Resmi Honda CBR250RR",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/motor/d-3328745/ini-spesifikasi-resmi-honda-cbr250rr",
+      "published": "2016-10",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "liputan6-cbr250rr-2020",
+      "title": "Harga CBR250RR keluaran terbaru tahun 2020 dan spesifikasinya",
+      "publisher": "Liputan6",
+      "url": "https://www.liputan6.com/hot/read/4247016/harga-cbr250rr-keluaran-terbaru-tahun-2020-dan-spesifikasinya",
+      "published": "2020",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-cbr250rr-2018",
+      "title": "GridOto Award 2018: Best Acceleration Diraih Honda CBR250RR, Berapa Waktunya?",
+      "publisher": "GridOto",
+      "url": "https://www.gridoto.com/read/221038860/gridoto-award-2018-best-acceleration-diraih-honda-cbr250rr-berapa-waktunya?page=2",
+      "published": "2018",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-cbr250rr-2023",
+      "title": "Intip Spesifikasi Mesin Honda CBR250RR 2023, Banyak Yang Baru Nih!",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/intip-spesifikasi-mesin-honda-cbr250rr-2023-banyak-yang-baru-nih-54336",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-cbr250rr-2023-sp",
+      "title": "Performa Honda CBR250RR 2023 Varian SP QS Semakin Melesat, Ternyata Ini Rahasia",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/performa-honda-cbr250rr-2023-varian-sp-qs-semakin-melesat-ternyata-ini-rahasia-55299",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-crf150l-5facts",
+      "title": "5 Daya Tarik Honda CRF150L, Trail 150 cc Paling Pas",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/5-daya-tarik-honda-crf150l-trail-150-cc-paling-pas-83471",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-crf150l-2021",
+      "title": "Review Lengkap Honda CRF150L 2021, Sang Idola Baru Motor Garuk Tanah",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/Review-Lengkap-Honda-CRF150L-2021-Sang-Idola-Baru-Motor-Garuk-Tanah-22902",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-crf150l-2017",
+      "title": "Ini Spesifikasi Honda CRF150L, Tenaga Diklaim Paling Besar di Kelasnya!",
+      "publisher": "GridOto",
+      "url": "https://www.gridoto.com/read/221003247/ini-spesifikasi-honda-crf150l-tenaga-diklaim-paling-besar-di-kelasnya?page=all",
+      "published": "2017-11",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-crf150l-2025",
+      "title": "Honda CRF 150L 2025 Dapat Penyegaran, Cek lagi Keunggulannya",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/honda-crf-150l-2025-dapat-penyegaran-cek-lagi-keunggulannya-468437",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-verza-2026",
+      "title": "Honda CB150 Verza Tahun 2026: Sekarang Dijual Segini",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/234373378/honda-cb150-verza-tahun-2026-sekarang-dijual-segini",
+      "published": "2026-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "astraotoshop-verza",
+      "title": "Honda CB150 Verza",
+      "publisher": "Astra Otoshop",
+      "url": "https://astraotoshop.com/article/honda-cb150-verza",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-verza",
+      "title": "Honda CB150 Verza",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/motor/honda/cb150-verza",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "zigwheels-verza",
+      "title": "Honda CB150 Verza Motor Sport Termurah, Cicilan Mulai Rp790 Ribuan",
+      "publisher": "Zigwheels",
+      "url": "https://www.zigwheels.co.id/motovaganza/honda-cb150-verza-motor-sport-termurah-cicilan-mulai-rp790-ribuan/",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    }
+  ],
+  "engines": [
+    {
+      "id": "honda-cbr150r",
+      "name": "149.16 cc DOHC 4-valve PGM-FI single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "zigwheels-cbr150r-spec"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "zigwheels-cbr150r-spec"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "zigwheels-cbr150r-spec"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "oto-cbr150r"
+      },
+      "strokeMm": {
+        "v": 57.8,
+        "s": "secondary",
+        "src": "oto-cbr150r"
+      },
+      "displacementCc": {
+        "v": 149.16,
+        "s": "secondary",
+        "src": "zigwheels-cbr150r-spec"
+      },
+      "compressionRatio": {
+        "v": 11.3,
+        "s": "secondary",
+        "src": "oto-cbr150r"
+      },
+      "powerPs": {
+        "v": 17.1,
+        "s": "secondary",
+        "src": "zigwheels-cbr150r"
+      },
+      "powerRpm": {
+        "v": 9000,
+        "s": "secondary",
+        "src": "zigwheels-cbr150r"
+      },
+      "torqueNm": {
+        "v": 14.4,
+        "s": "secondary",
+        "src": "zigwheels-cbr150r"
+      },
+      "torqueRpm": {
+        "v": 7000,
+        "s": "secondary",
+        "src": "zigwheels-cbr150r"
+      }
+    },
+    {
+      "id": "honda-cb150r",
+      "name": "149.16 cc DOHC 4-valve PGM-FI single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "autofun-streetfire-vs-cbr"
+      },
+      "strokeMm": {
+        "v": 57.8,
+        "s": "secondary",
+        "src": "autofun-streetfire-vs-cbr"
+      },
+      "displacementCc": {
+        "v": 149.16,
+        "s": "secondary",
+        "src": "autofun-streetfire-vs-cbr"
+      },
+      "compressionRatio": {
+        "v": 11.3,
+        "s": "secondary",
+        "src": "autofun-streetfire-vs-cbr"
+      },
+      "powerPs": {
+        "v": 16.9,
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      },
+      "powerRpm": {
+        "v": 9000,
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      },
+      "torqueNm": {
+        "v": 13.8,
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      },
+      "torqueRpm": {
+        "v": 7000,
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      }
+    },
+    {
+      "id": "honda-cb150x",
+      "name": "149.16 cc DOHC 4-valve PGM-FI single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "autofun-cb150x"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "carmudi-cb150x"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "autofun-cb150x"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "autofun-cb150x-2022"
+      },
+      "strokeMm": {
+        "v": 57.8,
+        "s": "secondary",
+        "src": "autofun-cb150x-2022"
+      },
+      "displacementCc": {
+        "v": 149.16,
+        "s": "secondary",
+        "src": "autofun-cb150x"
+      },
+      "compressionRatio": {
+        "v": 11.3,
+        "s": "secondary",
+        "src": "autofun-cb150x-2022"
+      },
+      "powerPs": {
+        "v": 15.6,
+        "s": "secondary",
+        "src": "carmudi-cb150x"
+      },
+      "powerRpm": {
+        "v": 9000,
+        "s": "secondary",
+        "src": "carmudi-cb150x"
+      },
+      "torqueNm": {
+        "v": 13.8,
+        "s": "secondary",
+        "src": "carmudi-cb150x"
+      },
+      "torqueRpm": {
+        "v": 7000,
+        "s": "secondary",
+        "src": "carmudi-cb150x"
+      }
+    },
+    {
+      "id": "honda-cbr250rr-2016",
+      "name": "249.7 cc DOHC 8-valve PGM-FI parallel twin, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "detik-cbr250rr-2016"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "cylinders": {
+        "v": 2,
+        "s": "secondary",
+        "src": "detik-cbr250rr-2016"
+      },
+      "boreMm": {
+        "v": 62.0,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "strokeMm": {
+        "v": 41.4,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "displacementCc": {
+        "v": 249.7,
+        "s": "secondary",
+        "src": "gridoto-cbr250rr-2018"
+      },
+      "compressionRatio": {
+        "v": 11.5,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "powerPs": {
+        "v": 38.7,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "powerRpm": {
+        "v": 12500,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "torqueNm": {
+        "v": 23.3,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "torqueRpm": {
+        "v": 11000,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      }
+    },
+    {
+      "id": "honda-cbr250rr-sp-2023",
+      "name": "249.7 cc DOHC 8-valve parallel twin (SP and SP-QS)",
+      "cylinders": {
+        "v": 2,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      },
+      "boreMm": {
+        "v": 62.0,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      },
+      "strokeMm": {
+        "v": 41.4,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      },
+      "displacementCc": {
+        "v": 249.7,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      },
+      "compressionRatio": {
+        "v": 12.5,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023-sp"
+      },
+      "powerPs": {
+        "v": 42.0,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023-sp"
+      },
+      "powerRpm": {
+        "v": 13000,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023-sp"
+      },
+      "torqueNm": {
+        "v": 25.0,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023-sp"
+      },
+      "torqueRpm": {
+        "v": 11000,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023-sp"
+      }
+    },
+    {
+      "id": "honda-crf150l",
+      "name": "149.15 cc SOHC 2-valve PGM-FI single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "autofun-crf150l-2025"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "autofun-crf150l-2021"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "strokeMm": {
+        "v": 57.8,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "displacementCc": {
+        "v": 149.15,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "compressionRatio": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "powerPs": {
+        "v": 12.91,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "powerRpm": {
+        "v": 8000,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "torqueNm": {
+        "v": 12.43,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "torqueRpm": {
+        "v": 6500,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      }
+    },
+    {
+      "id": "honda-verza-150",
+      "name": "149.15 cc SOHC 2-valve PGM-FI single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection (PGM-FI)",
+        "s": "secondary",
+        "src": "zigwheels-verza"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "boreMm": {
+        "v": 57.3,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "strokeMm": {
+        "v": 57.8,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "displacementCc": {
+        "v": 149.15,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "compressionRatio": {
+        "v": 9.5,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "powerPs": {
+        "v": 13.04,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "powerRpm": {
+        "v": 8500,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "torqueNm": {
+        "v": 12.73,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "torqueRpm": {
+        "v": 6000,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      }
+    }
+  ],
+  "transmissions": [
+    {
+      "id": "honda-cbr150r-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "zigwheels-cbr150r-spec"
+      }
+    },
+    {
+      "id": "honda-cb150r-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      }
+    },
+    {
+      "id": "honda-cb150x-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "carmudi-cb150x"
+      }
+    },
+    {
+      "id": "honda-cbr250rr-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      }
+    },
+    {
+      "id": "honda-cbr250rr-sp-2023-6speed",
+      "kind": {
+        "v": "Manual, 6-speed",
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      }
+    },
+    {
+      "id": "honda-crf150l-5speed",
+      "kind": {
+        "v": "Manual, 5-speed",
+        "s": "secondary",
+        "src": "autofun-crf150l-2025"
+      }
+    },
+    {
+      "id": "honda-verza-5speed",
+      "kind": {
+        "v": "Manual, 5-speed",
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      }
+    }
+  ],
+  "generations": [
+    {
+      "id": "honda-cbr150r",
+      "brand": "Honda",
+      "family": "CBR150R",
+      "category": "Sport",
+      "label": "CBR150R (2021-)",
+      "yearFrom": {
+        "v": 2021,
+        "s": "secondary",
+        "src": "zigwheels-cbr150r"
+      },
+      "inProduction": true,
+      "engineId": "honda-cbr150r",
+      "transmissionId": "honda-cbr150r-6speed",
+      "notes": "Assist and slipper clutch. Kerb weight is listed as 137 kg without ABS and 139 kg with ABS, so it is not stored as one value. Wheelbase and tyres are not stored."
+    },
+    {
+      "id": "honda-cb150r-streetfire-prev",
+      "brand": "Honda",
+      "family": "CB150R Streetfire",
+      "category": "Naked",
+      "label": "CB150R Streetfire, 2,019 mm body (before the 2021 model)",
+      "inProduction": false,
+      "engineId": "honda-cb150r",
+      "transmissionId": "honda-cb150r-6speed",
+      "wheelbaseMm": {
+        "v": 1293,
+        "s": "secondary",
+        "src": "autofun-streetfire-prev"
+      },
+      "kerbWeightKg": {
+        "v": 136,
+        "s": "secondary",
+        "src": "autofun-streetfire-prev"
+      },
+      "seatHeightMm": {
+        "v": 797,
+        "s": "secondary",
+        "src": "autofun-streetfire-prev"
+      },
+      "notes": "Replaced by the 2021 model. The year range is not stored."
+    },
+    {
+      "id": "honda-cb150r-streetfire-2021",
+      "brand": "Honda",
+      "family": "CB150R Streetfire",
+      "category": "Naked",
+      "label": "CB150R Streetfire (2021-)",
+      "yearFrom": {
+        "v": 2021,
+        "s": "secondary",
+        "src": "autofun-streetfire-2021"
+      },
+      "inProduction": true,
+      "engineId": "honda-cb150r",
+      "transmissionId": "honda-cb150r-6speed",
+      "wheelbaseMm": {
+        "v": 1298,
+        "s": "secondary",
+        "src": "autofun-streetfire-2021"
+      },
+      "kerbWeightKg": {
+        "v": 134,
+        "s": "secondary",
+        "src": "autofun-streetfire-2021"
+      },
+      "seatHeightMm": {
+        "v": 795,
+        "s": "secondary",
+        "src": "autofun-streetfire-2021"
+      },
+      "frontTyre": {
+        "v": "100/80-17",
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      },
+      "rearTyre": {
+        "v": "130/70-17",
+        "s": "secondary",
+        "src": "gridoto-cb150r-2026"
+      },
+      "notes": "Kerb weight is for the standard type. The Special Edition is 135 kg."
+    },
+    {
+      "id": "honda-cb150x",
+      "brand": "Honda",
+      "family": "CB150X",
+      "category": "Adventure / Touring",
+      "label": "CB150X",
+      "inProduction": true,
+      "engineId": "honda-cb150x",
+      "transmissionId": "honda-cb150x-6speed",
+      "wheelbaseMm": {
+        "v": 1315,
+        "s": "secondary",
+        "src": "autofun-cb150x-2022"
+      },
+      "kerbWeightKg": {
+        "v": 139,
+        "s": "secondary",
+        "src": "autofun-cb150x-2022"
+      },
+      "seatHeightMm": {
+        "v": 817,
+        "s": "secondary",
+        "src": "autofun-cb150x-2022"
+      },
+      "notes": "Shares the CB150R Streetfire engine geometry. A 2022 comparison table lists 16.9 PS for the CB150X; later sources give 15.6 PS and 15.42 hp. The later figure is used. Start year and tyres are not stored."
+    },
+    {
+      "id": "honda-cbr250rr-2016",
+      "brand": "Honda",
+      "family": "CBR250RR",
+      "category": "Sport",
+      "label": "CBR250RR (2016-)",
+      "yearFrom": {
+        "v": 2016,
+        "s": "secondary",
+        "src": "detik-cbr250rr-2016"
+      },
+      "inProduction": false,
+      "engineId": "honda-cbr250rr-2016",
+      "transmissionId": "honda-cbr250rr-6speed",
+      "wheelbaseMm": {
+        "v": 1389,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "kerbWeightKg": {
+        "v": 165,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "seatHeightMm": {
+        "v": 790,
+        "s": "secondary",
+        "src": "liputan6-cbr250rr-2020"
+      },
+      "notes": "Output is from a 2020 listing. The 2016 launch figures were 36.4 PS and 22.5 Nm, and a 2018 listing gives 38.3 PS. The end year is not stored."
+    },
+    {
+      "id": "honda-cbr250rr-sp-2023",
+      "brand": "Honda",
+      "family": "CBR250RR",
+      "category": "Sport",
+      "label": "CBR250RR SP and SP-QS (2023-)",
+      "yearFrom": {
+        "v": 2023,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      },
+      "inProduction": true,
+      "engineId": "honda-cbr250rr-sp-2023",
+      "transmissionId": "honda-cbr250rr-sp-2023-6speed",
+      "wheelbaseMm": {
+        "v": 1385,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      },
+      "kerbWeightKg": {
+        "v": 168,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      },
+      "seatHeightMm": {
+        "v": 790,
+        "s": "secondary",
+        "src": "autofun-cbr250rr-2023"
+      },
+      "notes": "The 2023 Standard type is listed at 38.7 PS and 23.3 Nm, 166 kg, and is not stored as its own record. The article gives the earlier compression ratio as 12.1:1, which does not match the 11.5:1 in the 2020 listing."
+    },
+    {
+      "id": "honda-crf150l",
+      "brand": "Honda",
+      "family": "CRF150L",
+      "category": "Trail / Enduro",
+      "label": "CRF150L (2017-)",
+      "yearFrom": {
+        "v": 2017,
+        "s": "secondary",
+        "src": "gridoto-crf150l-2017"
+      },
+      "inProduction": true,
+      "engineId": "honda-crf150l",
+      "transmissionId": "honda-crf150l-5speed",
+      "wheelbaseMm": {
+        "v": 1375,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "kerbWeightKg": {
+        "v": 122,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "seatHeightMm": {
+        "v": 869,
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "frontTyre": {
+        "v": "2.75-21",
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "rearTyre": {
+        "v": "4.1-18",
+        "s": "secondary",
+        "src": "autofun-crf150l-5facts"
+      },
+      "notes": "One 2021 article gives a seat height of 896 mm. Other articles give 869 mm."
+    },
+    {
+      "id": "honda-cb150-verza",
+      "brand": "Honda",
+      "family": "Verza",
+      "category": "Naked",
+      "label": "CB150 Verza",
+      "inProduction": true,
+      "engineId": "honda-verza-150",
+      "transmissionId": "honda-verza-5speed",
+      "wheelbaseMm": {
+        "v": 1318,
+        "s": "secondary",
+        "src": "astraotoshop-verza"
+      },
+      "kerbWeightKg": {
+        "v": 129,
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "seatHeightMm": {
+        "v": 773,
+        "s": "secondary",
+        "src": "autofun-verza"
+      },
+      "frontTyre": {
+        "v": "80/100-17",
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "rearTyre": {
+        "v": "100/90-17",
+        "s": "secondary",
+        "src": "gridoto-verza-2026"
+      },
+      "notes": "Kerb weight is for the cast wheel type. The spoke wheel type is 128 kg. Tyres are tubeless on the cast wheel type and tube type on the spoke wheel type. Start year is not stored."
+    }
+  ]
+}

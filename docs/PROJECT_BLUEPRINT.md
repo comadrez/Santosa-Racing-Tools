@@ -12,11 +12,12 @@ Done:
 - Specification database, part 2b: Honda matic, older and discontinued models (Vario 110 and 125, Scoopy, BeAT, PCX 125 and 150, ADV 150, Spacy) in `honda-matic-older.json`
 - Specification database, part 3b: Honda underbone and cub, older models (Astrea Supra, Supra X 100, Supra Fit, Supra X 125 carburettor, Revo 100, Absolute Revo 110, Kirana 125) in `honda-underbone-older.json`
 - Specification database, part 3: Honda underbone and cub, current models (Supra X 125 FI, Supra GTR 150, Revo FI, Blade 125 FI, Sonic 150R) plus Supra X 125 Helm In and Blade 110, in `honda-underbone.json`
+- Specification database, part 4: Honda sport, trail and naked models (CBR150R, CB150R Streetfire, CB150X, CBR250RR, CRF150L, CB150 Verza) in `honda-sport.json`
 
 Next:
 
 - Wheelie check calculator for bore-up CVT scooters (not built yet)
-- Specification database, part 4 onward
+- Specification database, part 5 onward
 
 Not started:
 
@@ -42,7 +43,7 @@ Parts, tick each one when its data is in the repository:
 - [x] 2b. Honda matic, older and discontinued models (earlier Vario 110 and 125, Spacy, Scoopy, PCX 125 and 150, ADV 150, older BeAT). Vision and Lead are not added: no source found that shows them sold in Indonesia. Many older fields stay unknown where sources disagree or give no figure.
 - [x] 3. Honda underbone and cub, current models
 - [x] 3b. Honda underbone and cub, older and discontinued models (Supra X 100 and 125 carburettor, Supra Fit, Supra X 125 R, Absolute Revo, Revo 100, Kirana 125; Blade 110 was already in part 3). Karisma, Win 100 and Supra X 110 are not added: no usable source found yet. Many older fields stay unknown where sources disagree or give no figure.
-- [ ] 4. Honda sport, trail and big bikes
+- [x] 4. Honda sport, trail and big bikes (CBR150R, CB150R Streetfire in two bodies, CB150X, CBR250RR first generation and the 2023 SP, CRF150L, CB150 Verza). CRF250 Rally, Tiger, MegaPro, GL Pro and GL Max, the older CB150R and CBR150R generations and the big bikes are not added: no usable source collected yet. The CBR250RR 2023 Standard type has no record of its own. Wheelbase, tyres, start years and gear ratios stay unknown where sources are missing or disagree.
 - [ ] 5. Yamaha matic
 - [ ] 6. Yamaha underbone and cub
 - [ ] 7. Yamaha sport and others
