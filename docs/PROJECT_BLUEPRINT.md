@@ -14,11 +14,12 @@ Done:
 - Specification database, part 3: Honda underbone and cub, current models (Supra X 125 FI, Supra GTR 150, Revo FI, Blade 125 FI, Sonic 150R) plus Supra X 125 Helm In and Blade 110, in `honda-underbone.json`
 - Specification database, part 4: Honda sport, trail and naked models (CBR150R, CB150R Streetfire, CB150X, CBR250RR, CRF150L, CB150 Verza) in `honda-sport.json`
 - Specification database, part 5: Yamaha matic (Aerox 155, NMAX 155, Lexi LX 155, Fazzio, Grand Filano, Gear 125 and Gear Ultima, FreeGo 125) in `yamaha-matic.json`
+- Specification database, part 6: Yamaha underbone and cub (MX King 150 in two bodies, Jupiter MX 150, Jupiter Z1, Vega Force) in `yamaha-underbone.json`
 
 Next:
 
 - Wheelie check calculator for bore-up CVT scooters (not built yet)
-- Specification database, part 6 onward
+- Specification database, part 7 onward
 
 Not started:
 
@@ -46,7 +47,7 @@ Parts, tick each one when its data is in the repository:
 - [x] 3b. Honda underbone and cub, older and discontinued models (Supra X 100 and 125 carburettor, Supra Fit, Supra X 125 R, Absolute Revo, Revo 100, Kirana 125; Blade 110 was already in part 3). Karisma, Win 100 and Supra X 110 are not added: no usable source found yet. Many older fields stay unknown where sources disagree or give no figure.
 - [x] 4. Honda sport, trail and big bikes (CBR150R, CB150R Streetfire in two bodies, CB150X, CBR250RR first generation and the 2023 SP, CRF150L, CB150 Verza). CRF250 Rally, Tiger, MegaPro, GL Pro and GL Max, the older CB150R and CBR150R generations and the big bikes are not added: no usable source collected yet. The CBR250RR 2023 Standard type has no record of its own. Wheelbase, tyres, start years and gear ratios stay unknown where sources are missing or disagree.
 - [x] 5. Yamaha matic (Aerox 155, NMAX 155 in two engine versions, Lexi LX 155, Fazzio, Grand Filano 2015 and 2023, Gear 125, Gear Ultima 125 Hybrid, FreeGo 125). Mio, Mio Soul, Mio M3, Fino, Xeon, X-Ride, Lexi 125, XMAX, TMAX, the first NMAX and the older Aerox are not added: no usable source collected yet. Output and size figures stay unknown where sources are missing or give a different unit.
-- [ ] 6. Yamaha underbone and cub
+- [x] 6. Yamaha underbone and cub (MX King 150 2015 and the 1,985 mm body, Jupiter MX 150 2015, Jupiter Z1, Vega Force). Jupiter MX 135, Jupiter Z, Vega ZR, Vega R, Force 1, Crypton and the older Vega are not added: no usable source collected yet. Output and size figures stay unknown where sources are missing.
 - [ ] 7. Yamaha sport and others
 - [ ] 8. Suzuki, part 1
 - [ ] 9. Suzuki, part 2

@@ -96,7 +96,7 @@ class HondaSportDataTest {
         assertEquals(Verification.UNKNOWN, previous.yearFrom.status)
         assertEquals(Verification.UNKNOWN, previous.frontTyre.status)
         assertEquals(Verification.UNKNOWN, engineOf(catalog, "honda-cbr250rr-sp-2023").cooling.status)
-        assertEquals(Verification.UNKNOWN, engineOf(catalog, "honda-cb150r").cylinders.status)
+        assertEquals(Verification.UNKNOWN, catalog.engine("honda-cb150r")!!.cylinders.status)
     }
 
     @Test

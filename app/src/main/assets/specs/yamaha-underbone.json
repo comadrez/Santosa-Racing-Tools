@@ -1,0 +1,456 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "detik-mx-king-2015",
+      "title": "Ini Spesifikasi Lengkap Yamaha MX King 150 dan Jupiter MX 150",
+      "publisher": "detikOto",
+      "url": "https://oto.detik.com/motor/d-2856743/ini-spesifikasi-lengkap-yamaha-mx-king-150-dan-jupiter-mx-150",
+      "published": "2015-03",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-mx-king-2015",
+      "title": "Nih Spesifikasi Lengkap Yamaha MX King dan Yamaha Jupiter MX 150",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231041518/nih-spesifikasi-lengkap-yamaha-mx-king-dan-yamaha-jupiter-mx-150",
+      "published": "2015-03",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "cermati-mx-king",
+      "title": "Yamaha MX King",
+      "publisher": "Cermati",
+      "url": "https://www.cermati.com/kredit-motor/yamaha-mx-king",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-mx-king-2021",
+      "title": "Yamaha MX King 150 Edisi 60th World GP Hadir di Indonesia, Harga Beda Tipis",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/yamaha-mx-king-150-edisi-60th-world-gp-hadir-di-indonesia-harga-beda-tipis-34017",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-mx-king-gtr",
+      "title": "Update Motor Bebek 150 cc, Pertarungan Supra GTR150 VS MX King 150",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/update-motor-bebek-150-cc-pertarungan-supra-gtr150-vs-mx-king-150-82300",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-mx-king-gtr-compare",
+      "title": "Komparasi Bebek Super, Mending Supra GTR 150 atau MX King 150?",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/komparasi-bebek-super-mending-supra-gtr-150-atau-mx-king-150-61353",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "autofun-jupiter-z1-2022",
+      "title": "Cocok Buat Pelajar, Yamaha Jupiter Z1 2022 Bersolek Pakai Baju Baru, Harga Cuma Rp 19 Jutaan",
+      "publisher": "Autofun",
+      "url": "https://www.autofun.co.id/berita-motor/cocok-buat-pelajar-yamaha-jupiter-z1-2022-bersolek-pakai-baju-baru-harga-cuma-rp-19-jutaan-48020",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "oto-jupiter-z1",
+      "title": "Yamaha Jupiter Z1",
+      "publisher": "Oto.com",
+      "url": "https://www.oto.com/motor-baru/yamaha/jupiter-z1",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-vega-force-spec",
+      "title": "Nih Spesifikasi dan Pilihan Warna Vega Force Euro3",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/231115108/nih-spesifikasi-dan-pilihan-warna-vega-force-euro3",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    },
+    {
+      "id": "gridoto-vega-force-2026",
+      "title": "Harga Terbaru Yamaha Vega Force Tahun 2026: Tipe Standarnya Segini",
+      "publisher": "GridOto",
+      "url": "https://otomotifnet.gridoto.com/read/234367698/harga-terbaru-yamaha-vega-force-tahun-2026-tipe-standarnya-segini",
+      "published": "2026-04",
+      "accessed": "2026-11-19",
+      "type": "secondary"
+    }
+  ],
+  "engines": [
+    {
+      "id": "yamaha-mx-king-150",
+      "name": "149.79 cc SOHC 4-valve injection single, liquid-cooled",
+      "cooling": {
+        "v": "Liquid-cooled",
+        "s": "secondary",
+        "src": "gridoto-mx-king-2015"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "autofun-mx-king-gtr"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "gridoto-mx-king-2015"
+      },
+      "boreMm": {
+        "v": 57.0,
+        "s": "secondary",
+        "src": "gridoto-mx-king-2015"
+      },
+      "strokeMm": {
+        "v": 58.7,
+        "s": "secondary",
+        "src": "gridoto-mx-king-2015"
+      },
+      "displacementCc": {
+        "v": 149.79,
+        "s": "secondary",
+        "src": "autofun-mx-king-gtr"
+      },
+      "compressionRatio": {
+        "v": 10.4,
+        "s": "secondary",
+        "src": "gridoto-mx-king-2015"
+      },
+      "powerPs": {
+        "v": 15.3,
+        "s": "secondary",
+        "src": "autofun-mx-king-2021"
+      },
+      "powerRpm": {
+        "v": 8500,
+        "s": "secondary",
+        "src": "autofun-mx-king-2021"
+      },
+      "torqueNm": {
+        "v": 13.8,
+        "s": "secondary",
+        "src": "autofun-mx-king-2021"
+      },
+      "torqueRpm": {
+        "v": 7000,
+        "s": "secondary",
+        "src": "autofun-mx-king-2021"
+      }
+    },
+    {
+      "id": "yamaha-jupiter-z1",
+      "name": "113.7 cc SOHC 2-valve injection single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "oto-jupiter-z1"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "displacementCc": {
+        "v": 113.7,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "compressionRatio": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "powerPs": {
+        "v": 10.06,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "powerRpm": {
+        "v": 7750,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "torqueNm": {
+        "v": 9.8,
+        "s": "secondary",
+        "src": "oto-jupiter-z1"
+      },
+      "torqueRpm": {
+        "v": 6750,
+        "s": "secondary",
+        "src": "oto-jupiter-z1"
+      }
+    },
+    {
+      "id": "yamaha-vega-force",
+      "name": "114 cc SOHC 2-valve injection single, air-cooled",
+      "cooling": {
+        "v": "Air-cooled",
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "fuelSystem": {
+        "v": "Fuel injection",
+        "s": "secondary",
+        "src": "gridoto-vega-force-2026"
+      },
+      "cylinders": {
+        "v": 1,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "boreMm": {
+        "v": 50.0,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "strokeMm": {
+        "v": 57.9,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "displacementCc": {
+        "v": 114.0,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "compressionRatio": {
+        "v": 9.3,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "powerPs": {
+        "v": 8.72,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "powerRpm": {
+        "v": 7000,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "torqueNm": {
+        "v": 9.53,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "torqueRpm": {
+        "v": 5500,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      }
+    }
+  ],
+  "transmissions": [
+    {
+      "id": "yamaha-mx-king-5speed",
+      "kind": {
+        "v": "Manual, 5-speed",
+        "s": "secondary",
+        "src": "autofun-mx-king-2021"
+      }
+    },
+    {
+      "id": "yamaha-vega-force-4speed",
+      "kind": {
+        "v": "Manual, 4-speed",
+        "s": "secondary",
+        "src": "gridoto-vega-force-2026"
+      }
+    }
+  ],
+  "generations": [
+    {
+      "brand": "Yamaha",
+      "category": "Underbone / Cub",
+      "id": "yamaha-mx-king-150-2015",
+      "family": "MX King",
+      "label": "MX King 150 (2015)",
+      "yearFrom": {
+        "v": 2015,
+        "s": "secondary",
+        "src": "detik-mx-king-2015"
+      },
+      "inProduction": false,
+      "engineId": "yamaha-mx-king-150",
+      "transmissionId": "yamaha-mx-king-5speed",
+      "wheelbaseMm": {
+        "v": 1290,
+        "s": "secondary",
+        "src": "detik-mx-king-2015"
+      },
+      "kerbWeightKg": {
+        "v": 116,
+        "s": "secondary",
+        "src": "detik-mx-king-2015"
+      },
+      "seatHeightMm": {
+        "v": 780,
+        "s": "secondary",
+        "src": "detik-mx-king-2015"
+      },
+      "frontTyre": {
+        "v": "70/90-17",
+        "s": "secondary",
+        "src": "cermati-mx-king"
+      },
+      "rearTyre": {
+        "v": "120/70-17",
+        "s": "secondary",
+        "src": "cermati-mx-king"
+      },
+      "notes": "The launch article lists 11.3 kW at 8,500 rpm, which is about 15.4 PS. The engine record uses the 15.3 PS from a 2021 listing. The end year is not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Underbone / Cub",
+      "id": "yamaha-mx-king-150",
+      "family": "MX King",
+      "label": "MX King 150, 1,985 mm body",
+      "inProduction": true,
+      "engineId": "yamaha-mx-king-150",
+      "transmissionId": "yamaha-mx-king-5speed",
+      "wheelbaseMm": {
+        "v": 1290,
+        "s": "secondary",
+        "src": "autofun-mx-king-gtr"
+      },
+      "kerbWeightKg": {
+        "v": 118,
+        "s": "secondary",
+        "src": "autofun-mx-king-gtr"
+      },
+      "seatHeightMm": {
+        "v": 795,
+        "s": "secondary",
+        "src": "autofun-mx-king-gtr"
+      },
+      "frontTyre": {
+        "v": "90/80-17",
+        "s": "secondary",
+        "src": "autofun-mx-king-gtr-compare"
+      },
+      "rearTyre": {
+        "v": "120/70-17",
+        "s": "secondary",
+        "src": "autofun-mx-king-gtr-compare"
+      },
+      "notes": "Start year is not stored. A 155 cc VVA MX King sold in Vietnam and Malaysia is not a model for Indonesia and is not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Underbone / Cub",
+      "id": "yamaha-jupiter-mx-150",
+      "family": "Jupiter",
+      "label": "Jupiter MX 150 (2015)",
+      "yearFrom": {
+        "v": 2015,
+        "s": "secondary",
+        "src": "detik-mx-king-2015"
+      },
+      "inProduction": false,
+      "engineId": "yamaha-mx-king-150",
+      "transmissionId": "yamaha-mx-king-5speed",
+      "wheelbaseMm": {
+        "v": 1290,
+        "s": "secondary",
+        "src": "detik-mx-king-2015"
+      },
+      "kerbWeightKg": {
+        "v": 116,
+        "s": "secondary",
+        "src": "detik-mx-king-2015"
+      },
+      "seatHeightMm": {
+        "v": 780,
+        "s": "secondary",
+        "src": "detik-mx-king-2015"
+      },
+      "notes": "Launched with the MX King 150. The launch article gives one specification for both. The end year and tyres are not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Underbone / Cub",
+      "id": "yamaha-jupiter-z1",
+      "family": "Jupiter",
+      "label": "Jupiter Z1",
+      "inProduction": true,
+      "engineId": "yamaha-jupiter-z1",
+      "wheelbaseMm": {
+        "v": 1240,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "kerbWeightKg": {
+        "v": 102,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "seatHeightMm": {
+        "v": 765,
+        "s": "secondary",
+        "src": "autofun-jupiter-z1-2022"
+      },
+      "notes": "Figures are from the 2022 model. Another source gives 9.9 Nm at 5,500 rpm for the torque. Start year, tyres and transmission are not stored."
+    },
+    {
+      "brand": "Yamaha",
+      "category": "Underbone / Cub",
+      "id": "yamaha-vega-force",
+      "family": "Vega",
+      "label": "Vega Force",
+      "inProduction": true,
+      "engineId": "yamaha-vega-force",
+      "transmissionId": "yamaha-vega-force-4speed",
+      "wheelbaseMm": {
+        "v": 1235,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "kerbWeightKg": {
+        "v": 96,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "seatHeightMm": {
+        "v": 775,
+        "s": "secondary",
+        "src": "gridoto-vega-force-spec"
+      },
+      "frontTyre": {
+        "v": "70/90-17",
+        "s": "secondary",
+        "src": "gridoto-vega-force-2026"
+      },
+      "rearTyre": {
+        "v": "80/90-17",
+        "s": "secondary",
+        "src": "gridoto-vega-force-2026"
+      },
+      "notes": "The Euro 3 article says the specification is the same as the Force Fuel Injection launched in 2013. Power is also listed as 8.63 PS and 8.7 PS. Start year is not stored."
+    }
+  ]
+}
